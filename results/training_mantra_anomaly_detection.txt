@@ -1,0 +1,1214 @@
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 1271.258228778839
+Epoch: 1, Steps: 4222 | Train Loss: 0.3194402 Vali Loss: 0.0225586 Test Loss: 0.1849723
+Epoch: 2 cost time: 1296.8594496250153
+Epoch: 2, Steps: 4222 | Train Loss: 0.0872355 Vali Loss: 0.0149735 Test Loss: 0.1241047
+Epoch: 3 cost time: 1282.398098230362
+Epoch: 3, Steps: 4222 | Train Loss: 0.0499393 Vali Loss: 0.0130675 Test Loss: 0.1129155
+Epoch: 4 cost time: 1288.7145290374756
+Epoch: 4, Steps: 4222 | Train Loss: 0.0414924 Vali Loss: 0.0116720 Test Loss: 0.1189073
+Epoch: 5 cost time: 1281.225424528122
+Epoch: 5, Steps: 4222 | Train Loss: 0.0382477 Vali Loss: 0.0112247 Test Loss: 0.1180918
+Epoch: 6 cost time: 1275.6829297542572
+Epoch: 6, Steps: 4222 | Train Loss: 0.0370566 Vali Loss: 0.0109856 Test Loss: 0.1163155
+Epoch: 7 cost time: 1277.252979516983
+Epoch: 7, Steps: 4222 | Train Loss: 0.0363017 Vali Loss: 0.0107163 Test Loss: 0.1167167
+Epoch: 8 cost time: 1280.5894062519073
+Epoch: 8, Steps: 4222 | Train Loss: 0.0358711 Vali Loss: 0.0106705 Test Loss: 0.1175482
+Epoch: 9 cost time: 1283.6202473640442
+Epoch: 9, Steps: 4222 | Train Loss: 0.0359269 Vali Loss: 0.0106230 Test Loss: 0.1169664
+Epoch: 10 cost time: 1277.6339819431305
+Epoch: 10, Steps: 4222 | Train Loss: 0.0356594 Vali Loss: 0.0106263 Test Loss: 0.1172634
+
+MaelNetB1_MaelNetS1_MSL_Negative_Corr_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 593.5242578983307
+Epoch: 1, Steps: 1820 | Train Loss: 0.2431227 Vali Loss: 0.3028524 Test Loss: 0.3028511
+Epoch: 2 cost time: 636.819990158081
+Epoch: 2, Steps: 1820 | Train Loss: 0.0709764 Vali Loss: 0.1940493 Test Loss: 0.1940513
+Epoch: 3 cost time: 636.7472903728485
+Epoch: 3, Steps: 1820 | Train Loss: 0.0395006 Vali Loss: 0.1715006 Test Loss: 0.1715038
+Epoch: 4 cost time: 641.293648481369
+Epoch: 4, Steps: 1820 | Train Loss: 0.0312797 Vali Loss: 0.1723752 Test Loss: 0.1723766
+Epoch: 5 cost time: 641.3796155452728
+Epoch: 5, Steps: 1820 | Train Loss: 0.0282420 Vali Loss: 0.1638113 Test Loss: 0.1638142
+Epoch: 6 cost time: 639.9053485393524
+Epoch: 6, Steps: 1820 | Train Loss: 0.0272218 Vali Loss: 0.1636235 Test Loss: 0.1636264
+Epoch: 7 cost time: 640.624249458313
+Epoch: 7, Steps: 1820 | Train Loss: 0.0266987 Vali Loss: 0.1644389 Test Loss: 0.1644225
+Epoch: 8 cost time: 638.7220301628113
+Epoch: 8, Steps: 1820 | Train Loss: 0.0260208 Vali Loss: 0.1650251 Test Loss: 0.1650190
+Epoch: 9 cost time: 640.2703878879547
+Epoch: 9, Steps: 1820 | Train Loss: 0.0257276 Vali Loss: 0.1644710 Test Loss: 0.1644659
+
+MaelNetB1_MaelNetS1_MSL_Negative_Corr_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_1  
+Epoch: 1 cost time: 650.3152894973755
+Epoch: 1, Steps: 1820 | Train Loss: 0.2365741 Vali Loss: 0.2853675 Test Loss: 0.2853692
+Epoch: 2 cost time: 647.9073398113251
+Epoch: 2, Steps: 1820 | Train Loss: 0.0740720 Vali Loss: 0.1606247 Test Loss: 0.1606170
+Epoch: 3 cost time: 654.3013796806335
+Epoch: 3, Steps: 1820 | Train Loss: 0.0424876 Vali Loss: 0.1545684 Test Loss: 0.1545700
+Epoch: 4 cost time: 663.6455955505371
+Epoch: 4, Steps: 1820 | Train Loss: 0.0336005 Vali Loss: 0.1214174 Test Loss: 0.1214172
+Epoch: 5 cost time: 660.0169696807861
+Epoch: 5, Steps: 1820 | Train Loss: 0.0301798 Vali Loss: 0.1239131 Test Loss: 0.1239142
+Epoch: 6 cost time: 667.9035029411316
+Epoch: 6, Steps: 1820 | Train Loss: 0.0288213 Vali Loss: 0.1212922 Test Loss: 0.1212932
+Epoch: 7 cost time: 673.463883638382
+Epoch: 7, Steps: 1820 | Train Loss: 0.0286163 Vali Loss: 0.1206442 Test Loss: 0.1206452
+Epoch: 8 cost time: 669.57137799263
+Epoch: 8, Steps: 1820 | Train Loss: 0.0280317 Vali Loss: 0.1199795 Test Loss: 0.1199804
+Epoch: 9 cost time: 694.6845419406891
+Epoch: 9, Steps: 1820 | Train Loss: 0.0275791 Vali Loss: 0.1197139 Test Loss: 0.1197136
+Epoch: 10 cost time: 692.3192069530487
+Epoch: 10, Steps: 1820 | Train Loss: 0.0280849 Vali Loss: 0.1198716 Test Loss: 0.1198594
+
+MaelNetB1_MaelNetS1_MSL_Negative_Corr_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_2  
+Epoch: 1 cost time: 701.6675136089325
+Epoch: 1, Steps: 1820 | Train Loss: 0.2431798 Vali Loss: 0.3444664 Test Loss: 0.3444670
+Epoch: 2 cost time: 700.3854308128357
+Epoch: 2, Steps: 1820 | Train Loss: 0.0734297 Vali Loss: 0.2485650 Test Loss: 0.2485651
+Epoch: 3 cost time: 715.7754125595093
+Epoch: 3, Steps: 1820 | Train Loss: 0.0419475 Vali Loss: 0.2271513 Test Loss: 0.2271469
+Epoch: 4 cost time: 711.2663984298706
+Epoch: 4, Steps: 1820 | Train Loss: 0.0337221 Vali Loss: 0.2237936 Test Loss: 0.2237942
+Epoch: 5 cost time: 679.9086685180664
+Epoch: 5, Steps: 1820 | Train Loss: 0.0304521 Vali Loss: 0.2269756 Test Loss: 0.2269706
+Epoch: 6 cost time: 669.2268190383911
+Epoch: 6, Steps: 1820 | Train Loss: 0.0292444 Vali Loss: 0.2247918 Test Loss: 0.2247870
+Epoch: 7 cost time: 659.7366712093353
+Epoch: 7, Steps: 1820 | Train Loss: 0.0287345 Vali Loss: 0.2239507 Test Loss: 0.2239487
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 1226.6760022640228
+Epoch: 1, Steps: 4137 | Train Loss: 0.0239309 Vali Loss: 0.0144596 Test Loss: 0.0144607
+Epoch: 2 cost time: 1259.725962638855
+Epoch: 2, Steps: 4137 | Train Loss: 0.0096987 Vali Loss: 0.0085956 Test Loss: 0.0085959
+Epoch: 3 cost time: 1254.4134411811829
+Epoch: 3, Steps: 4137 | Train Loss: 0.0072526 Vali Loss: 0.0072296 Test Loss: 0.0072305
+Epoch: 4 cost time: 1245.623104095459
+Epoch: 4, Steps: 4137 | Train Loss: 0.0064049 Vali Loss: 0.0065152 Test Loss: 0.0065160
+Epoch: 5 cost time: 1247.4262909889221
+Epoch: 5, Steps: 4137 | Train Loss: 0.0060327 Vali Loss: 0.0058592 Test Loss: 0.0058601
+Epoch: 6 cost time: 1238.8985137939453
+Epoch: 6, Steps: 4137 | Train Loss: 0.0058811 Vali Loss: 0.0058324 Test Loss: 0.0058333
+Epoch: 7 cost time: 1235.63330078125
+Epoch: 7, Steps: 4137 | Train Loss: 0.0058006 Vali Loss: 0.0059660 Test Loss: 0.0059667
+Epoch: 8 cost time: 1236.9244413375854
+Epoch: 8, Steps: 4137 | Train Loss: 0.0057504 Vali Loss: 0.0057770 Test Loss: 0.0057778
+Epoch: 9 cost time: 1233.0600109100342
+Epoch: 9, Steps: 4137 | Train Loss: 0.0057364 Vali Loss: 0.0057846 Test Loss: 0.0057855
+Epoch: 10 cost time: 1232.9045386314392
+Epoch: 10, Steps: 4137 | Train Loss: 0.0057328 Vali Loss: 0.0057365 Test Loss: 0.0057374
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 95.43923163414001
+Epoch: 1, Steps: 222 | Train Loss: 0.2126128 Vali Loss: 0.1027285 Test Loss: 0.8752618
+Epoch: 2 cost time: 107.30019021034241
+Epoch: 2, Steps: 222 | Train Loss: 0.1758514 Vali Loss: 0.0717577 Test Loss: 0.9139268
+Epoch: 3 cost time: 111.08049249649048
+Epoch: 3, Steps: 222 | Train Loss: 0.1570946 Vali Loss: 0.0596718 Test Loss: 0.8391486
+Epoch: 4 cost time: 110.77983164787292
+Epoch: 4, Steps: 222 | Train Loss: 0.1431107 Vali Loss: 0.0550163 Test Loss: 0.7816263
+Epoch: 5 cost time: 111.05478835105896
+Epoch: 5, Steps: 222 | Train Loss: 0.1387395 Vali Loss: 0.0523138 Test Loss: 0.7676020
+Epoch: 6 cost time: 111.18794703483582
+Epoch: 6, Steps: 222 | Train Loss: 0.1367934 Vali Loss: 0.0513153 Test Loss: 0.7629330
+Epoch: 7 cost time: 111.14894413948059
+Epoch: 7, Steps: 222 | Train Loss: 0.1358535 Vali Loss: 0.0503728 Test Loss: 0.7599228
+Epoch: 8 cost time: 111.37815713882446
+Epoch: 8, Steps: 222 | Train Loss: 0.1354438 Vali Loss: 0.0502028 Test Loss: 0.7589301
+Epoch: 9 cost time: 111.74118375778198
+Epoch: 9, Steps: 222 | Train Loss: 0.1349006 Vali Loss: 0.0502354 Test Loss: 0.7581854
+Epoch: 10 cost time: 111.61013436317444
+Epoch: 10, Steps: 222 | Train Loss: 0.1346407 Vali Loss: 0.0499038 Test Loss: 0.7577644
+
+MaelNetB1_MaelNetS1_SWaT_Negative_Corr_MaelNetB1_SWaT_ftM_dm51_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 5486.582176208496
+Epoch: 1, Steps: 15466 | Train Loss: 0.0041967 Vali Loss: 0.0006656 Test Loss: 0.0053251
+Epoch: 2 cost time: 5350.362410068512
+Epoch: 2, Steps: 15466 | Train Loss: 0.0014477 Vali Loss: 0.0003961 Test Loss: 0.0042719
+Epoch: 3 cost time: 5421.150386333466
+Epoch: 3, Steps: 15466 | Train Loss: 0.0009707 Vali Loss: 0.0002782 Test Loss: 0.0040078
+Epoch: 4 cost time: 5132.031098365784
+Epoch: 4, Steps: 15466 | Train Loss: 0.0007927 Vali Loss: 0.0002298 Test Loss: 0.0037506
+Epoch: 5 cost time: 5069.39311671257
+Epoch: 5, Steps: 15466 | Train Loss: 0.0007163 Vali Loss: 0.0001898 Test Loss: 0.0036929
+Epoch: 6 cost time: 5061.892193317413
+Epoch: 6, Steps: 15466 | Train Loss: 0.0006815 Vali Loss: 0.0001811 Test Loss: 0.0037366
+Epoch: 7 cost time: 5066.140180587769
+Epoch: 7, Steps: 15466 | Train Loss: 0.0006649 Vali Loss: 0.0001768 Test Loss: 0.0036754
+Epoch: 8 cost time: 4998.672109603882
+Epoch: 8, Steps: 15466 | Train Loss: 0.0006563 Vali Loss: 0.0001783 Test Loss: 0.0036630
+Epoch: 9 cost time: 4987.61630821228
+Epoch: 9, Steps: 15466 | Train Loss: 0.0006519 Vali Loss: 0.0001751 Test Loss: 0.0036864
+Epoch: 10 cost time: 4934.620134592056
+Epoch: 10, Steps: 15466 | Train Loss: 0.0006508 Vali Loss: 0.0001739 Test Loss: 0.0036858MaelNetB1_MaelNetS1_MSL_Negative_Corr_RL_1_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  MaelNetB1_MaelNetS1_NegativeCorr_RL_1_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 110.00204873085022
+Epoch: 1, Steps: 1820 | Train Loss: 0.6242814 Vali Loss: 3.5299921 Test Loss: 2.1538213
+
+MaelNetB1_MaelNetS1_NegativeCorr_RL_2_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 733.4225039482117
+Epoch: 1, Steps: 1820 | Train Loss: 0.3361417 Vali Loss: 2.2861117 Test Loss: 2.2911794
+
+MaelNetB1_MaelNetS1_NegativeCorr_RL_2_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 693.7890186309814
+Epoch: 1, Steps: 1820 | Train Loss: 0.3361376 Vali Loss: 2.2863797 Test Loss: 2.2914464
+
+MaelNetB1_MaelNetS1_NegativeCorr_RL_3_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 478.49663400650024
+Epoch: 1, Steps: 1820 | Train Loss: 0.3361377 Vali Loss: 2.2863886 Test Loss: 2.2914687
+
+MaelNetB1_MaelNetS1_NegativeCorr_RL_4_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 129.95303583145142
+Epoch: 1, Steps: 1820 | Train Loss: 0.5446160 Vali Loss: 3.1852072 Test Loss: 4.4295394
+
+MaelNetB1_MaelNetS1_NegativeCorr_RL_4_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 123.9022045135498
+Epoch: 1, Steps: 1820 | Train Loss: 0.5446175 Vali Loss: 3.1852079 Test Loss: 4.4295100
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_1_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 884.1357419490814
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_1_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 101.52905440330505
+Epoch: 1, Steps: 4222 | Train Loss: 0.8888600 Vali Loss: 0.8690177 Test Loss: 5.3694112
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_1_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 80.66752433776855
+Epoch: 1, Steps: 222 | Train Loss: 0.2289665 Vali Loss: 0.4653228 Test Loss: 2.1890898
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_1_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 90.33550596237183
+Epoch: 1, Steps: 4137 | Train Loss: 0.0842753 Vali Loss: 0.5877112 Test Loss: 0.4678695
+
+MaelNetB1_MaelNetS1_SWaT_Negative_Corr_RL_1_MaelNetB1_SWaT_ftM_dm51_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 102.76297497749329
+Epoch: 1, Steps: 15466 | Train Loss: 0.0499863 Vali Loss: 0.1931153 Test Loss: 0.4716542
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_2_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 88.67883682250977
+Epoch: 1, Steps: 4137 | Train Loss: 0.0842753 Vali Loss: 0.4591033 Test Loss: 0.4672780
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_2_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 86.97276306152344
+Epoch: 1, Steps: 4222 | Train Loss: 0.8888663 Vali Loss: 0.8690226 Test Loss: 5.3694022
+
+MaelNetB1_MaelNetS1_SWaT_Negative_Corr_RL_2_MaelNetB1_SWaT_ftM_dm51_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 107.11865854263306
+Epoch: 1, Steps: 15466 | Train Loss: 0.0499864 Vali Loss: 0.1931157 Test Loss: 0.4716532
+
+MaelNetB1_MaelNetS1_MSL_Negative_Corr_RL_1_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 102.77654457092285
+Epoch: 1, Steps: 1820 | Train Loss: 0.5446169 Vali Loss: 0.9054501 Test Loss: 4.4295237
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 76.92807173728943
+Epoch: 1, Steps: 222 | Train Loss: 0.2289724 Vali Loss: 0.4653236 Test Loss: 2.1891789
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_1_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 113.08204340934753
+Epoch: 1, Steps: 222 | Train Loss: 0.2289720 Vali Loss: 0.4653244 Test Loss: 2.1891657
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_1_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 109.15839672088623
+Epoch: 1, Steps: 222 | Train Loss: 0.2289625 Vali Loss: 0.4653289 Test Loss: 2.1889349
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_2_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 856.730700969696
+Epoch: 1, Steps: 4137 | Train Loss: 0.0324851 Vali Loss: 0.2087486 Test Loss: 0.2739936
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_2_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 871.8801953792572
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 76.75889158248901
+Epoch: 1, Steps: 222 | Train Loss: 0.2289676 Vali Loss: 0.4653256 Test Loss: 2.1890520
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_3_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 74.947096824646
+Epoch: 1, Steps: 222 | Train Loss: 0.2289626 Vali Loss: 0.4653246 Test Loss: 2.1889856
+Epoch: 2 cost time: 77.76356315612793
+Epoch: 2, Steps: 222 | Train Loss: 0.1937654 Vali Loss: 0.4089792 Test Loss: 2.1252095
+Epoch: 3 cost time: 80.76416516304016
+Epoch: 3, Steps: 222 | Train Loss: 0.1770190 Vali Loss: 0.3834838 Test Loss: 2.0291684
+Epoch: 4 cost time: 79.58025765419006
+Epoch: 4, Steps: 222 | Train Loss: 0.1711871 Vali Loss: 0.3724811 Test Loss: 2.0512869
+Epoch: 5 cost time: 79.67315888404846
+Epoch: 5, Steps: 222 | Train Loss: 0.1678518 Vali Loss: 0.3672457 Test Loss: 1.9833882
+Epoch: 6 cost time: 79.63324069976807
+Epoch: 6, Steps: 222 | Train Loss: 0.1660781 Vali Loss: 0.3674278 Test Loss: 1.9571357
+Epoch: 7 cost time: 79.49454879760742
+Epoch: 7, Steps: 222 | Train Loss: 0.1652130 Vali Loss: 0.3647187 Test Loss: 2.0191686
+Epoch: 8 cost time: 79.8351902961731
+Epoch: 8, Steps: 222 | Train Loss: 0.1648643 Vali Loss: 0.3631872 Test Loss: 2.0326993
+Epoch: 9 cost time: 79.69246172904968
+Epoch: 9, Steps: 222 | Train Loss: 0.1644071 Vali Loss: 0.3618207 Test Loss: 1.9613973
+Epoch: 10 cost time: 79.62079405784607
+Epoch: 10, Steps: 222 | Train Loss: 0.1644169 Vali Loss: 0.3616661 Test Loss: 2.0145774
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_3_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 909.4605374336243
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_3_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 820.0057015419006
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_3_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 811.7952888011932
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_3_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 818.2082755565643
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_3_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 814.9760835170746
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_4_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 141.31826663017273
+Epoch: 1, Steps: 4137 | Train Loss: 0.0714026 Vali Loss: 0.2789173 Test Loss: 0.2918762
+Epoch: 2 cost time: 147.93382954597473
+Epoch: 2, Steps: 4137 | Train Loss: 0.0424195 Vali Loss: 0.2482026 Test Loss: 0.2741912
+Epoch: 3 cost time: 150.07344031333923
+Epoch: 3, Steps: 4137 | Train Loss: 0.0321443 Vali Loss: 0.2434411 Test Loss: 0.2710239
+Epoch: 4 cost time: 149.00450015068054
+Epoch: 4, Steps: 4137 | Train Loss: 0.0281869 Vali Loss: 0.2390341 Test Loss: 0.2624685
+Epoch: 5 cost time: 149.2650647163391
+Epoch: 5, Steps: 4137 | Train Loss: 0.0293142 Vali Loss: 0.2327947 Test Loss: 0.2533634
+Epoch: 6 cost time: 150.268048286438
+Epoch: 6, Steps: 4137 | Train Loss: 0.0275473 Vali Loss: 0.2262562 Test Loss: 0.2401794
+Epoch: 7 cost time: 149.4087405204773
+Epoch: 7, Steps: 4137 | Train Loss: 0.0292621 Vali Loss: 0.2203846 Test Loss: 0.2274411
+Epoch: 8 cost time: 148.19359683990479
+Epoch: 8, Steps: 4137 | Train Loss: 0.0272808 Vali Loss: 0.2177286 Test Loss: 0.2166621
+Epoch: 9 cost time: 148.73726606369019
+Epoch: 9, Steps: 4137 | Train Loss: 0.0267069 Vali Loss: 0.2166591 Test Loss: 0.2159176
+Epoch: 10 cost time: 149.80666136741638
+Epoch: 10, Steps: 4137 | Train Loss: 0.0272161 Vali Loss: 0.2142507 Test Loss: 0.2090546
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_5_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 816.817967414856
+Epoch: 1, Steps: 4137 | Train Loss: 0.0324876 Vali Loss: 0.2098614 Test Loss: 0.2736733
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_5_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 805.9778482913971
+Epoch: 1, Steps: 4137 | Train Loss: 0.0324727 Vali Loss: 0.2081864 Test Loss: 0.2708618
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_6_epoch10_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 804.4650206565857
+Epoch: 1, Steps: 4137 | Train Loss: 0.0324831 Vali Loss: 0.2066006 Test Loss: 0.2691448
+Epoch: 2 cost time: 844.0154399871826
+Epoch: 2, Steps: 4137 | Train Loss: 0.0131932 Vali Loss: 0.1828737 Test Loss: 0.2315637
+Epoch: 3 cost time: 850.6889317035675
+Epoch: 3, Steps: 4137 | Train Loss: 0.0101113 Vali Loss: 0.1696951 Test Loss: 0.2147553
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_5_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 827.6939852237701
+Epoch: 1, Steps: 4137 | Train Loss: 0.0324785 Vali Loss: 0.2069317 Test Loss: 0.2675551
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_5_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 903.0529890060425
+Epoch: 1, Steps: 4137 | Train Loss: 0.0324828 Vali Loss: 0.2086812 Test Loss: 0.2748846
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_3_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 78.72127604484558
+Epoch: 1, Steps: 222 | Train Loss: 0.2289626 Vali Loss: 0.4653286 Test Loss: 2.1889436
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_3_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 73.09267854690552
+Epoch: 1, Steps: 222 | Train Loss: 0.2289646 Vali Loss: 0.4653261 Test Loss: 2.1889981
+Epoch: 2 cost time: 77.87766337394714
+Epoch: 2, Steps: 222 | Train Loss: 0.1937668 Vali Loss: 0.4082361 Test Loss: 2.1217290
+Epoch: 3 cost time: 79.79084086418152
+Epoch: 3, Steps: 222 | Train Loss: 0.1770197 Vali Loss: 0.3831581 Test Loss: 2.0253557
+Epoch: 4 cost time: 80.04078149795532
+Epoch: 4, Steps: 222 | Train Loss: 0.1711883 Vali Loss: 0.3717287 Test Loss: 2.1309700
+Epoch: 5 cost time: 79.46341848373413
+Epoch: 5, Steps: 222 | Train Loss: 0.1678530 Vali Loss: 0.3667471 Test Loss: 1.9808145
+Epoch: 6 cost time: 80.24226784706116
+Epoch: 6, Steps: 222 | Train Loss: 0.1660795 Vali Loss: 0.3670500 Test Loss: 1.9493993
+Epoch: 7 cost time: 80.72082185745239
+Epoch: 7, Steps: 222 | Train Loss: 0.1652141 Vali Loss: 0.3642356 Test Loss: 1.9913881
+Epoch: 8 cost time: 79.80837750434875
+Epoch: 8, Steps: 222 | Train Loss: 0.1648653 Vali Loss: 0.3623978 Test Loss: 1.9974511
+Epoch: 9 cost time: 79.40373611450195
+Epoch: 9, Steps: 222 | Train Loss: 0.1644079 Vali Loss: 0.3604501 Test Loss: 1.9546861
+Epoch: 10 cost time: 79.2607684135437
+Epoch: 10, Steps: 222 | Train Loss: 0.1644180 Vali Loss: 0.3579949 Test Loss: 2.0045058
+
+MaelNetB1_MaelNetS1_SWaT_Negative_Corr_RL_3_epoch10_MaelNetB1_SWaT_ftM_dm51_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 173.42979335784912
+Epoch: 1, Steps: 15466 | Train Loss: 0.0413835 Vali Loss: 0.1688499 Test Loss: 0.5735050
+Epoch: 2 cost time: 174.743234872818
+Epoch: 2, Steps: 15466 | Train Loss: 0.0181726 Vali Loss: 0.1139507 Test Loss: 0.3964177
+Epoch: 3 cost time: 172.66274976730347
+Epoch: 3, Steps: 15466 | Train Loss: 0.0119999 Vali Loss: 0.1039678 Test Loss: 0.3754420
+Epoch: 4 cost time: 173.70251512527466
+Epoch: 4, Steps: 15466 | Train Loss: 0.0112367 Vali Loss: 0.1033242 Test Loss: 0.3840821
+Epoch: 5 cost time: 173.95732998847961
+Epoch: 5, Steps: 15466 | Train Loss: 0.0099838 Vali Loss: 0.0811957 Test Loss: 0.4513090
+Epoch: 6 cost time: 174.4600968360901
+Epoch: 6, Steps: 15466 | Train Loss: 0.0094485 Vali Loss: 0.0781714 Test Loss: 0.4468451
+Epoch: 7 cost time: 174.25194191932678
+Epoch: 7, Steps: 15466 | Train Loss: 0.0092353 Vali Loss: 0.0782354 Test Loss: 0.4583558
+Epoch: 8 cost time: 175.42438554763794
+Epoch: 8, Steps: 15466 | Train Loss: 0.0091788 Vali Loss: 0.0726856 Test Loss: 0.4490054
+Epoch: 9 cost time: 175.2508053779602
+Epoch: 9, Steps: 15466 | Train Loss: 0.0092985 Vali Loss: 0.0682080 Test Loss: 0.4219334
+Epoch: 10 cost time: 174.1677951812744
+Epoch: 10, Steps: 15466 | Train Loss: 0.0092390 Vali Loss: 0.0627419 Test Loss: 0.4150516
+MaelNetB1_MaelNetS1_SWaT_Negative_Corr_RL_3_epoch10_MaelNetB1_SWaT_ftM_dm51_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 174.2085108757019
+Epoch: 1, Steps: 15466 | Train Loss: 0.0413831 Vali Loss: 0.1688439 Test Loss: 0.5735010
+
+MaelNetB1_MaelNetS1_SWaT_Negative_Corr_RL_2_epoch10_MaelNetB1_SWaT_ftM_dm51_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 177.17758297920227
+Epoch: 1, Steps: 15466 | Train Loss: 0.0413830 Vali Loss: 0.1688497 Test Loss: 0.5735008
+Epoch: 2 cost time: 178.25402975082397
+Epoch: 2, Steps: 15466 | Train Loss: 0.0181645 Vali Loss: 0.1141568 Test Loss: 0.3975590
+Epoch: 3 cost time: 179.38499188423157
+Epoch: 3, Steps: 15466 | Train Loss: 0.0119723 Vali Loss: 0.1042029 Test Loss: 0.3791239
+Epoch: 4 cost time: 179.4261770248413
+Epoch: 4, Steps: 15466 | Train Loss: 0.0112033 Vali Loss: 0.1038049 Test Loss: 0.3901464
+Epoch: 5 cost time: 179.44312810897827
+Epoch: 5, Steps: 15466 | Train Loss: 0.0099514 Vali Loss: 0.0838680 Test Loss: 0.4173782
+Epoch: 6 cost time: 180.21058917045593
+Epoch: 6, Steps: 15466 | Train Loss: 0.0094238 Vali Loss: 0.0786633 Test Loss: 0.4329579
+Epoch: 7 cost time: 180.28761887550354
+Epoch: 7, Steps: 15466 | Train Loss: 0.0092069 Vali Loss: 0.0786309 Test Loss: 0.4534138
+Epoch: 8 cost time: 181.84337639808655
+Epoch: 8, Steps: 15466 | Train Loss: 0.0091503 Vali Loss: 0.0728596 Test Loss: 0.4496341
+Epoch: 9 cost time: 181.6695158481598
+Epoch: 9, Steps: 15466 | Train Loss: 0.0092627 Vali Loss: 0.0676755 Test Loss: 0.4614291
+Epoch: 10 cost time: 180.32157039642334
+Epoch: 10, Steps: 15466 | Train Loss: 0.0092133 Vali Loss: 0.0608148 Test Loss: 0.4581261
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_1_epoch10_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 131.0457513332367
+Epoch: 1, Steps: 4222 | Train Loss: 0.8426002 Vali Loss: 0.8073854 Test Loss: 3.8046195
+Epoch: 2 cost time: 133.750741481781
+Epoch: 2, Steps: 4222 | Train Loss: 0.6646276 Vali Loss: 0.7106884 Test Loss: 3.5162980
+Epoch: 3 cost time: 138.71721196174622
+Epoch: 3, Steps: 4222 | Train Loss: 0.5656304 Vali Loss: 0.6531912 Test Loss: 3.3313994
+Epoch: 4 cost time: 138.56408262252808
+Epoch: 4, Steps: 4222 | Train Loss: 0.5357512 Vali Loss: 0.6156829 Test Loss: 3.2147725
+Epoch: 5 cost time: 137.67994594573975
+Epoch: 5, Steps: 4222 | Train Loss: 0.4731515 Vali Loss: 0.6086671 Test Loss: 3.1419649
+Epoch: 6 cost time: 137.17122220993042
+Epoch: 6, Steps: 4222 | Train Loss: 0.4792957 Vali Loss: 0.5744979 Test Loss: 3.1213370
+Epoch: 7 cost time: 137.5290174484253
+Epoch: 7, Steps: 4222 | Train Loss: 0.5010674 Vali Loss: 0.5731384 Test Loss: 3.0907508
+Epoch: 8 cost time: 137.29495692253113
+Epoch: 8, Steps: 4222 | Train Loss: 0.5086473 Vali Loss: 0.5674046 Test Loss: 3.0405105
+Epoch: 9 cost time: 137.06332302093506
+Epoch: 9, Steps: 4222 | Train Loss: 0.4729347 Vali Loss: 0.5561520 Test Loss: 3.0195077
+Epoch: 10 cost time: 137.78743052482605
+Epoch: 10, Steps: 4222 | Train Loss: 0.5108352 Vali Loss: 0.5598381 Test Loss: 3.0315066
+
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_RL_1_epoch10_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 75.8179349899292
+Epoch: 1, Steps: 222 | Train Loss: 0.2289625 Vali Loss: 0.4653266 Test Loss: 2.1889378
+Epoch: 2 cost time: 79.01436567306519
+Epoch: 2, Steps: 222 | Train Loss: 0.1937643 Vali Loss: 0.4079961 Test Loss: 2.1237275
+Epoch: 3 cost time: 80.42923402786255
+Epoch: 3, Steps: 222 | Train Loss: 0.1770195 Vali Loss: 0.3830178 Test Loss: 2.0249431
+Epoch: 4 cost time: 81.83908939361572
+Epoch: 4, Steps: 222 | Train Loss: 0.1711857 Vali Loss: 0.3716215 Test Loss: 2.0803745
+Epoch: 5 cost time: 81.63917541503906
+Epoch: 5, Steps: 222 | Train Loss: 0.1678509 Vali Loss: 0.3669375 Test Loss: 1.9805604
+Epoch: 6 cost time: 82.30005216598511
+Epoch: 6, Steps: 222 | Train Loss: 0.1660768 Vali Loss: 0.3674440 Test Loss: 1.9479447
+Epoch: 7 cost time: 81.45031905174255
+Epoch: 7, Steps: 222 | Train Loss: 0.1652114 Vali Loss: 0.3645618 Test Loss: 1.9877176
+Epoch: 8 cost time: 81.47678184509277
+Epoch: 8, Steps: 222 | Train Loss: 0.1648628 Vali Loss: 0.3628642 Test Loss: 2.0009388
+Epoch: 9 cost time: 81.47208404541016
+Epoch: 9, Steps: 222 | Train Loss: 0.1644056 Vali Loss: 0.3614567 Test Loss: 1.9628283
+Epoch: 10 cost time: 81.18524479866028
+Epoch: 10, Steps: 222 | Train Loss: 0.1644157 Vali Loss: 0.3600410 Test Loss: 2.0094767
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_1_epoch10_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 122.55689215660095
+Epoch: 1, Steps: 4137 | Train Loss: 0.0756370 Vali Loss: 0.2985592 Test Loss: 0.3078538
+Epoch: 2 cost time: 129.55064034461975
+Epoch: 2, Steps: 4137 | Train Loss: 0.0458030 Vali Loss: 0.2555169 Test Loss: 0.2863375
+Epoch: 3 cost time: 132.20741152763367
+Epoch: 3, Steps: 4137 | Train Loss: 0.0364154 Vali Loss: 0.2481636 Test Loss: 0.2783468
+Epoch: 4 cost time: 132.84672474861145
+Epoch: 4, Steps: 4137 | Train Loss: 0.0328222 Vali Loss: 0.2430433 Test Loss: 0.2736407
+Epoch: 5 cost time: 133.1740367412567
+Epoch: 5, Steps: 4137 | Train Loss: 0.0308345 Vali Loss: 0.2353736 Test Loss: 0.2638038
+Epoch: 6 cost time: 132.7045042514801
+Epoch: 6, Steps: 4137 | Train Loss: 0.0289609 Vali Loss: 0.2280870 Test Loss: 0.2501666
+Epoch: 7 cost time: 132.8811535835266
+Epoch: 7, Steps: 4137 | Train Loss: 0.0305287 Vali Loss: 0.2249142 Test Loss: 0.2395056
+Epoch: 8 cost time: 137.7199409008026
+Epoch: 8, Steps: 4137 | Train Loss: 0.0301036 Vali Loss: 0.2230376 Test Loss: 0.2312789
+Epoch: 9 cost time: 131.08989429473877
+Epoch: 9, Steps: 4137 | Train Loss: 0.0308817 Vali Loss: 0.2189923 Test Loss: 0.2313888
+Epoch: 10 cost time: 131.12501406669617
+Epoch: 10, Steps: 4137 | Train Loss: 0.0303069 Vali Loss: 0.2181573 Test Loss: 0.2297729
+
+MaelNetB1_MaelNetS1_MSL_Negative_Corr_RL_1_epoch10_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 127.55578684806824
+Epoch: 1, Steps: 1820 | Train Loss: 0.5050607 Vali Loss: 0.8051729 Test Loss: 2.7103946
+Epoch: 2 cost time: 139.91886568069458
+Epoch: 2, Steps: 1820 | Train Loss: 0.3447613 Vali Loss: 0.6774047 Test Loss: 2.3962164
+Epoch: 3 cost time: 139.94999837875366
+Epoch: 3, Steps: 1820 | Train Loss: 0.2766155 Vali Loss: 0.6412769 Test Loss: 2.2739302
+Epoch: 4 cost time: 141.37209677696228
+Epoch: 4, Steps: 1820 | Train Loss: 0.2477768 Vali Loss: 0.6288478 Test Loss: 2.2330566
+Epoch: 5 cost time: 141.55061745643616
+Epoch: 5, Steps: 1820 | Train Loss: 0.2314780 Vali Loss: 0.6211456 Test Loss: 2.2036317
+Epoch: 6 cost time: 141.20253348350525
+Epoch: 6, Steps: 1820 | Train Loss: 0.2263635 Vali Loss: 0.6173653 Test Loss: 2.1785665
+Epoch: 7 cost time: 141.55132794380188
+Epoch: 7, Steps: 1820 | Train Loss: 0.2186324 Vali Loss: 0.6085425 Test Loss: 2.1391279
+Epoch: 8 cost time: 142.05186009407043
+Epoch: 8, Steps: 1820 | Train Loss: 0.2189099 Vali Loss: 0.6078884 Test Loss: 2.1266072
+Epoch: 9 cost time: 141.69910311698914
+Epoch: 9, Steps: 1820 | Train Loss: 0.2129247 Vali Loss: 0.6071575 Test Loss: 2.1212314
+Epoch: 10 cost time: 142.77367067337036
+Epoch: 10, Steps: 1820 | Train Loss: 0.2160282 Vali Loss: 0.6062217 Test Loss: 2.1205790
+
+MaelNetB1_MaelNetS1_MSL_Negative_Corr_RL_2_epoch10_itr1500_MaelNetB1_MSL_ftM_dm55_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 346.66363167762756
+Epoch: 1, Steps: 1820 | Train Loss: 0.3662215 Vali Loss: 0.6194527 Test Loss: 2.3053280
+Epoch: 2 cost time: 366.9715893268585
+Epoch: 2, Steps: 1820 | Train Loss: 0.1633149 Vali Loss: 0.5588116 Test Loss: 1.7121419
+Epoch: 3 cost time: 368.5054175853729
+Epoch: 3, Steps: 1820 | Train Loss: 0.1055114 Vali Loss: 0.5385786 Test Loss: 1.6406214
+Epoch: 4 cost time: 367.64229345321655
+Epoch: 4, Steps: 1820 | Train Loss: 0.0865870 Vali Loss: 0.5326834 Test Loss: 1.6362916
+Epoch: 5 cost time: 364.13135838508606
+Epoch: 5, Steps: 1820 | Train Loss: 0.0783102 Vali Loss: 0.5249931 Test Loss: 1.6192625
+Epoch: 6 cost time: 364.8463168144226
+Epoch: 6, Steps: 1820 | Train Loss: 0.0746459 Vali Loss: 0.5178852 Test Loss: 1.6419012
+Epoch: 7 cost time: 366.30586338043213
+Epoch: 7, Steps: 1820 | Train Loss: 0.0710759 Vali Loss: 0.5113519 Test Loss: 1.6755839
+Epoch: 8 cost time: 366.6293992996216
+Epoch: 8, Steps: 1820 | Train Loss: 0.0730549 Vali Loss: 0.5025853 Test Loss: 2.9752991
+Epoch: 9 cost time: 364.7227818965912
+Epoch: 9, Steps: 1820 | Train Loss: 0.0709261 Vali Loss: 0.4986622 Test Loss: 3.5222157
+Epoch: 10 cost time: 364.49017214775085
+Epoch: 10, Steps: 1820 | Train Loss: 0.0707791 Vali Loss: 0.4900449 Test Loss: 3.5891191
+
+MaelNetB1_MaelNetS1_PSM_Negative_Corr_RL_2_epoch10_itr1500_MaelNetB1_PSM_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 309.1933808326721
+Epoch: 1, Steps: 4137 | Train Loss: 0.0507646 Vali Loss: 0.2423567 Test Loss: 0.3216419
+Epoch: 2 cost time: 326.29836106300354
+Epoch: 2, Steps: 4137 | Train Loss: 0.0245457 Vali Loss: 0.2202131 Test Loss: 0.2918733
+Epoch: 3 cost time: 325.29160380363464
+Epoch: 3, Steps: 4137 | Train Loss: 0.0190049 Vali Loss: 0.2065707 Test Loss: 0.2539706
+Epoch: 4 cost time: 326.1258246898651
+Epoch: 4, Steps: 4137 | Train Loss: 0.0169743 Vali Loss: 0.1993567 Test Loss: 0.2397304
+Epoch: 5 cost time: 326.52121686935425
+Epoch: 5, Steps: 4137 | Train Loss: 0.0164410 Vali Loss: 0.1939402 Test Loss: 0.2301648
+Epoch: 6 cost time: 326.8107497692108
+Epoch: 6, Steps: 4137 | Train Loss: 0.0157818 Vali Loss: 0.1886183 Test Loss: 0.2231864
+Epoch: 7 cost time: 328.10219502449036
+Epoch: 7, Steps: 4137 | Train Loss: 0.0153951 Vali Loss: 0.1842406 Test Loss: 0.2167418
+Epoch: 8 cost time: 327.43661737442017
+Epoch: 8, Steps: 4137 | Train Loss: 0.0152745 Vali Loss: 0.1779258 Test Loss: 0.2141085
+Epoch: 9 cost time: 329.36334443092346
+Epoch: 9, Steps: 4137 | Train Loss: 0.0154469 Vali Loss: 0.1720079 Test Loss: 0.2064813
+Epoch: 10 cost time: 329.4209599494934
+Epoch: 10, Steps: 4137 | Train Loss: 0.0151693 Vali Loss: 0.1680796 Test Loss: 0.2002112
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_1_epoch10_itr1500_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 305.12542247772217
+Epoch: 1, Steps: 4222 | Train Loss: 0.6922418 Vali Loss: 0.6204990 Test Loss: 1.5055745
+Epoch: 2 cost time: 327.28761887550354
+Epoch: 2, Steps: 4222 | Train Loss: 0.3755954 Vali Loss: 0.4810844 Test Loss: 1.2224318
+Epoch: 3 cost time: 323.60099744796753
+Epoch: 3, Steps: 4222 | Train Loss: 0.2596970 Vali Loss: 0.4452928 Test Loss: 1.1368460
+Epoch: 4 cost time: 324.67352271080017
+Epoch: 4, Steps: 4222 | Train Loss: 0.2302277 Vali Loss: 0.4261048 Test Loss: 1.0905321
+Epoch: 5 cost time: 325.8393466472626
+Epoch: 5, Steps: 4222 | Train Loss: 0.2157641 Vali Loss: 0.4133054 Test Loss: 1.0589113
+Epoch: 6 cost time: 325.78663206100464
+Epoch: 6, Steps: 4222 | Train Loss: 0.1937085 Vali Loss: 0.4015917 Test Loss: 1.0303741
+Epoch: 7 cost time: 326.3795790672302
+Epoch: 7, Steps: 4222 | Train Loss: 0.2011529 Vali Loss: 0.3861711 Test Loss: 1.0002500
+Epoch: 8 cost time: 327.9816074371338
+Epoch: 8, Steps: 4222 | Train Loss: 0.2070663 Vali Loss: 0.3777308 Test Loss: 0.9814133
+Epoch: 9 cost time: 327.624547958374
+Epoch: 9, Steps: 4222 | Train Loss: 0.1891451 Vali Loss: 0.3730836 Test Loss: 0.9695596
+Epoch: 10 cost time: 326.84050726890564
+Epoch: 10, Steps: 4222 | Train Loss: 0.1975311 Vali Loss: 0.3677728 Test Loss: 0.9607817
+
+NSTransformerB1_NSTransformerS1_SMAP_Negative_Corr_RL_1_epoch10_itr1500_NSTransformerB1_SMAP_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 1138.9397702217102
+Epoch: 1, Steps: 4222 | Train Loss: 0.1349779 Vali Loss: 0.2403260 Test Loss: 0.5955967
+Epoch: 2 cost time: 1158.3818502426147
+Epoch: 2, Steps: 4222 | Train Loss: 0.0453133 Vali Loss: 0.2183374 Test Loss: 0.4969577
+Epoch: 3 cost time: 1157.7696387767792
+Epoch: 3, Steps: 4222 | Train Loss: 0.0275365 Vali Loss: 0.2065738 Test Loss: 0.4762697
+Epoch: 4 cost time: 1157.670795917511
+Epoch: 4, Steps: 4222 | Train Loss: 0.0207807 Vali Loss: 0.2032877 Test Loss: 0.4697179
+Epoch: 5 cost time: 1158.1115126609802
+Epoch: 5, Steps: 4222 | Train Loss: 0.0193261 Vali Loss: 0.2010017 Test Loss: 0.4486787
+Epoch: 6 cost time: 1158.0111119747162
+Epoch: 6, Steps: 4222 | Train Loss: 0.0180568 Vali Loss: 0.1973235 Test Loss: 0.4546223
+Epoch: 7 cost time: 1158.2253241539001
+Epoch: 7, Steps: 4222 | Train Loss: 0.0176372 Vali Loss: 0.1977083 Test Loss: 0.4394169
+Epoch: 8 cost time: 1158.1166937351227
+Epoch: 8, Steps: 4222 | Train Loss: 0.0173409 Vali Loss: 0.1955027 Test Loss: 0.4389987
+Epoch: 9 cost time: 1159.012368440628
+Epoch: 9, Steps: 4222 | Train Loss: 0.0170570 Vali Loss: 0.1933808 Test Loss: 0.4419532
+Epoch: 10 cost time: 1159.202085018158
+Epoch: 10, Steps: 4222 | Train Loss: 0.0173444 Vali Loss: 0.1939155 Test Loss: 0.4280194
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_2_epoch10_itr1500_noslowleraner_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 237.99603939056396
+Epoch: 1, Steps: 4222 | Train Loss: 0.6910987 Vali Loss: 0.7705003 Test Loss: 1.7797091
+Epoch: 2 cost time: 250.31505632400513
+Epoch: 2, Steps: 4222 | Train Loss: 0.3827520 Vali Loss: 0.6759486 Test Loss: 1.5743277
+Epoch: 3 cost time: 250.26554131507874
+Epoch: 3, Steps: 4222 | Train Loss: 0.2970904 Vali Loss: 0.6529470 Test Loss: 1.5144451
+Epoch: 4 cost time: 249.07642722129822
+Epoch: 4, Steps: 4222 | Train Loss: 0.2209606 Vali Loss: 0.6436153 Test Loss: 1.4770633
+Epoch: 5 cost time: 249.6319079399109
+Epoch: 5, Steps: 4222 | Train Loss: 0.2147087 Vali Loss: 0.6394315 Test Loss: 1.4718727
+Epoch: 6 cost time: 251.00236678123474
+Epoch: 6, Steps: 4222 | Train Loss: 0.2072038 Vali Loss: 0.6375958 Test Loss: 1.4748118
+Epoch: 7 cost time: 249.2575147151947
+Epoch: 7, Steps: 4222 | Train Loss: 0.2048853 Vali Loss: 0.6391334 Test Loss: 1.4686763
+Epoch: 8 cost time: 250.20763754844666
+Epoch: 8, Steps: 4222 | Train Loss: 0.2101712 Vali Loss: 0.6336123 Test Loss: 1.4690459
+Epoch: 9 cost time: 251.5535922050476
+Epoch: 9, Steps: 4222 | Train Loss: 0.2021729 Vali Loss: 0.6374000 Test Loss: 1.4642819
+Epoch: 10 cost time: 249.79403734207153
+Epoch: 10, Steps: 4222 | Train Loss: 0.2010041 Vali Loss: 0.6361883 Test Loss: 1.4708991
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_3_epoch10_itr500_noslowleraner_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 101.36497139930725
+Epoch: 1, Steps: 4222 | Train Loss: 0.8423966 Vali Loss: 0.9206304 Test Loss: 4.2193650
+Epoch: 2 cost time: 100.8021833896637
+Epoch: 2, Steps: 4222 | Train Loss: 0.6498766 Vali Loss: 0.8402330 Test Loss: 3.9295701
+Epoch: 3 cost time: 103.2177791595459
+Epoch: 3, Steps: 4222 | Train Loss: 0.5822097 Vali Loss: 0.8048472 Test Loss: 3.8268213
+Epoch: 4 cost time: 103.59641194343567
+Epoch: 4, Steps: 4222 | Train Loss: 0.5236688 Vali Loss: 0.7890196 Test Loss: 3.7836944
+Epoch: 5 cost time: 103.41339778900146
+Epoch: 5, Steps: 4222 | Train Loss: 0.5203701 Vali Loss: 0.7830641 Test Loss: 3.7579872
+Epoch: 6 cost time: 103.31147813796997
+Epoch: 6, Steps: 4222 | Train Loss: 0.4724540 Vali Loss: 0.7756413 Test Loss: 3.7446840
+Epoch: 7 cost time: 104.73371720314026
+Epoch: 7, Steps: 4222 | Train Loss: 0.5096129 Vali Loss: 0.7876183 Test Loss: 3.7488375
+Epoch: 8 cost time: 104.05483150482178
+Epoch: 8, Steps: 4222 | Train Loss: 0.4976990 Vali Loss: 0.7880299 Test Loss: 3.7493038
+Epoch: 9 cost time: 103.93042874336243
+Epoch: 9, Steps: 4222 | Train Loss: 0.4934966 Vali Loss: 0.7739465 Test Loss: 3.7608639
+Epoch: 10 cost time: 103.70511436462402
+Epoch: 10, Steps: 4222 | Train Loss: 0.5229832 Vali Loss: 0.7809998 Test Loss: 3.7186868
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_3_epoch10_itr500_noslowleraner_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 94.71226692199707
+Epoch: 1, Steps: 4222 | Train Loss: 0.8423889 Vali Loss: 0.9206160 Test Loss: 4.2193215
+Epoch: 2 cost time: 100.4311785697937
+Epoch: 2, Steps: 4222 | Train Loss: 0.6498583 Vali Loss: 0.8402250 Test Loss: 3.9295554
+Epoch: 3 cost time: 102.3375597000122
+Epoch: 3, Steps: 4222 | Train Loss: 0.5822033 Vali Loss: 0.8048454 Test Loss: 3.8267955
+Epoch: 4 cost time: 102.91909694671631
+Epoch: 4, Steps: 4222 | Train Loss: 0.5236861 Vali Loss: 0.7890312 Test Loss: 3.7837021
+Epoch: 5 cost time: 103.1658627986908
+Epoch: 5, Steps: 4222 | Train Loss: 0.5203810 Vali Loss: 0.7830740 Test Loss: 3.7579696
+Epoch: 6 cost time: 103.17582297325134
+Epoch: 6, Steps: 4222 | Train Loss: 0.4724756 Vali Loss: 0.7756474 Test Loss: 3.7446825
+Epoch: 7 cost time: 102.58404660224915
+Epoch: 7, Steps: 4222 | Train Loss: 0.5096372 Vali Loss: 0.7876332 Test Loss: 3.7488493
+Epoch: 8 cost time: 103.51892399787903
+Epoch: 8, Steps: 4222 | Train Loss: 0.4977152 Vali Loss: 0.7880425 Test Loss: 3.7493112
+Epoch: 9 cost time: 103.17561268806458
+Epoch: 9, Steps: 4222 | Train Loss: 0.4935130 Vali Loss: 0.7739583 Test Loss: 3.7608761
+Epoch: 10 cost time: 103.24334812164307
+Epoch: 10, Steps: 4222 | Train Loss: 0.5230095 Vali Loss: 0.7810149 Test Loss: 3.7187002
+
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_RL_4_epoch10_itr4000_noslowleraner_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 566.9567139148712
+Epoch: 1, Steps: 4222 | Train Loss: 0.4650071 Vali Loss: 0.6461985 Test Loss: 1.1283248
+Epoch: 2 cost time: 600.4081561565399
+Epoch: 2, Steps: 4222 | Train Loss: 0.1643687 Vali Loss: 0.6154658 Test Loss: 1.0321701
+Epoch: 3 cost time: 600.9816954135895
+Epoch: 3, Steps: 4222 | Train Loss: 0.1051714 Vali Loss: 0.6111648 Test Loss: 1.0133801
+Epoch: 4 cost time: 604.8462798595428
+Epoch: 4, Steps: 4222 | Train Loss: 0.0858088 Vali Loss: 0.6098305 Test Loss: 0.9969892
+Epoch: 5 cost time: 607.7764766216278
+Epoch: 5, Steps: 4222 | Train Loss: 0.0776207 Vali Loss: 0.6061571 Test Loss: 1.0028470
+Epoch: 6 cost time: 624.8733003139496
+Epoch: 6, Steps: 4222 | Train Loss: 0.0737426 Vali Loss: 0.6061603 Test Loss: 0.9930800
+Epoch: 7 cost time: 631.0845017433167
+Epoch: 7, Steps: 4222 | Train Loss: 0.0726087 Vali Loss: 0.6044635 Test Loss: 0.9946434
+Epoch: 8 cost time: 632.0898478031158
+Epoch: 8, Steps: 4222 | Train Loss: 0.0713903 Vali Loss: 0.6061608 Test Loss: 0.9915049
+Epoch: 9 cost time: 631.8367249965668
+Epoch: 9, Steps: 4222 | Train Loss: 0.0700855 Vali Loss: 0.6073206 Test Loss: 0.9923122
+Epoch: 10 cost time: 633.3867883682251
+Epoch: 10, Steps: 4222 | Train Loss: 0.0701011 Vali Loss: 0.6073910 Test Loss: 0.9908161
+
+MaelNetB1_MaelNetS1_New_Anomaly_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 101.6240439414978
+Epoch: 1, Steps: 222 | Train Loss: 0.2356907 Vali Loss: 0.1445035 Test Loss: 0.8573733
+
+MaelNetB1_MaelNetS1_New_Anomaly_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 96.4954583644867
+Epoch: 1, Steps: 222 | Train Loss: 0.2356915 Vali Loss: 0.1445053 Test Loss: 0.8573522
+
+MaelNetB1_MaelNetS1_New_Anomaly_CPU_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 612.5042905807495
+Epoch: 1, Steps: 222 | Train Loss: 0.2360022 Vali Loss: 0.1441908 Test Loss: 0.8601843
+
+MaelNetB1_MaelNetS1_2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 99.37408471107483
+Epoch: 1, Steps: 222 | Train Loss: 0.2356886 Vali Loss: 0.1444981 Test Loss: 0.8572994
+
+MaelNetB1_MaelNetS1_2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 95.4683792591095
+Epoch: 1, Steps: 222 | Train Loss: 0.2356864 Vali Loss: 0.1444916 Test Loss: 0.8570881
+
+MaelNetB1_MaelNetS1_2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 91.64162826538086
+Epoch: 1, Steps: 886 | Train Loss: 0.2877594 Vali Loss: 0.1534178 Test Loss: 0.2381587
+
+MaelNetB1_MaelNetS1_2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 102.91021370887756
+Epoch: 1, Steps: 222 | Train Loss: 0.2272867 Vali Loss: 0.1396117 Test Loss: 0.9710377
+
+MaelNetB1_MaelNetS1_2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 100.71903085708618
+Epoch: 1, Steps: 222 | Train Loss: 0.2273281 Vali Loss: 0.1396642 Test Loss: 0.9710943
+
+MaelNetB1_MaelNetS1_3_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 98.89849805831909
+Epoch: 1, Steps: 222 | Train Loss: 0.2273168 Vali Loss: 0.1396515 Test Loss: 0.9710206
+Epoch: 2 cost time: 99.6453492641449
+Epoch: 2, Steps: 222 | Train Loss: 0.1990516 Vali Loss: 0.1046282 Test Loss: 0.8919429
+Epoch: 3 cost time: 100.4697949886322
+Epoch: 3, Steps: 222 | Train Loss: 0.1771047 Vali Loss: 0.0956608 Test Loss: 0.8485703
+Epoch: 4 cost time: 98.97563195228577
+Epoch: 4, Steps: 222 | Train Loss: 0.1709564 Vali Loss: 0.0916797 Test Loss: 0.8614059
+Epoch: 5 cost time: 99.06437087059021
+Epoch: 5, Steps: 222 | Train Loss: 0.1679704 Vali Loss: 0.0883807 Test Loss: 0.8572841
+Epoch: 6 cost time: 100.29533243179321
+Epoch: 6, Steps: 222 | Train Loss: 0.1663192 Vali Loss: 0.0881672 Test Loss: 0.8462847
+Epoch: 7 cost time: 99.02814722061157
+Epoch: 7, Steps: 222 | Train Loss: 0.1658294 Vali Loss: 0.0872598 Test Loss: 0.8393732
+Epoch: 8 cost time: 99.04401707649231
+Epoch: 8, Steps: 222 | Train Loss: 0.1652503 Vali Loss: 0.0868831 Test Loss: 0.8441828
+Epoch: 9 cost time: 98.90360975265503
+Epoch: 9, Steps: 222 | Train Loss: 0.1652538 Vali Loss: 0.0867482 Test Loss: 0.8462282
+Epoch: 10 cost time: 98.80984711647034
+Epoch: 10, Steps: 222 | Train Loss: 0.1651007 Vali Loss: 0.0869794 Test Loss: 0.8431278
+
+MaelNetB1_MaelNetS1_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 242.7526695728302
+Epoch: 1, Steps: 222 | Train Loss: 0.2276504 Vali Loss: 0.1399735 Test Loss: 0.9583285
+Epoch: 2 cost time: 250.61015367507935
+Epoch: 2, Steps: 222 | Train Loss: 0.1941637 Vali Loss: 0.1061216 Test Loss: 1.1045149
+Epoch: 3 cost time: 242.04772543907166
+Epoch: 3, Steps: 222 | Train Loss: 0.1813723 Vali Loss: 0.0964576 Test Loss: 0.8575115
+Epoch: 4 cost time: 241.23703122138977
+Epoch: 4, Steps: 222 | Train Loss: 0.1707380 Vali Loss: 0.0925983 Test Loss: 0.8505379
+Epoch: 5 cost time: 252.38944602012634
+Epoch: 5, Steps: 222 | Train Loss: 0.1677640 Vali Loss: 0.0912837 Test Loss: 0.8493194
+Epoch: 6 cost time: 242.07983350753784
+Epoch: 6, Steps: 222 | Train Loss: 0.1665240 Vali Loss: 0.0888141 Test Loss: 0.8470011
+Epoch: 7 cost time: 241.36495804786682
+Epoch: 7, Steps: 222 | Train Loss: 0.1658412 Vali Loss: 0.0879902 Test Loss: 0.8521133
+Epoch: 8 cost time: 235.56220889091492
+Epoch: 8, Steps: 222 | Train Loss: 0.1655614 Vali Loss: 0.0875913 Test Loss: 0.8464234
+Epoch: 9 cost time: 242.4865276813507
+Epoch: 9, Steps: 222 | Train Loss: 0.1650889 Vali Loss: 0.0870935 Test Loss: 0.8552381
+Epoch: 10 cost time: 242.91859197616577
+Epoch: 10, Steps: 222 | Train Loss: 0.1649255 Vali Loss: 0.0877548 Test Loss: 0.8467727
+
+MaelNetB1_MaelNetS1_SL_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 247.16505670547485
+Epoch: 1, Steps: 222 | Train Loss: 0.2276504 Vali Loss: 0.1399735 Test Loss: 0.9583285
+Epoch: 2 cost time: 233.4225468635559
+Epoch: 2, Steps: 222 | Train Loss: 0.1941637 Vali Loss: 0.1061216 Test Loss: 1.1045149
+Epoch: 3 cost time: 267.11859011650085
+Epoch: 3, Steps: 222 | Train Loss: 0.1813723 Vali Loss: 0.0964576 Test Loss: 0.8575115
+Epoch: 4 cost time: 264.73169779777527
+Epoch: 4, Steps: 222 | Train Loss: 0.1707380 Vali Loss: 0.0925983 Test Loss: 0.8505379
+Epoch: 5 cost time: 268.77716588974
+Epoch: 5, Steps: 222 | Train Loss: 0.1677640 Vali Loss: 0.0912837 Test Loss: 0.8493194
+Epoch: 6 cost time: 262.8664481639862
+Epoch: 6, Steps: 222 | Train Loss: 0.1665240 Vali Loss: 0.0888141 Test Loss: 0.8470011
+Epoch: 7 cost time: 262.52370953559875
+Epoch: 7, Steps: 222 | Train Loss: 0.1658412 Vali Loss: 0.0879902 Test Loss: 0.8521133
+Epoch: 8 cost time: 272.8222110271454
+Epoch: 8, Steps: 222 | Train Loss: 0.1655614 Vali Loss: 0.0875913 Test Loss: 0.8464234
+Epoch: 9 cost time: 268.2367215156555
+Epoch: 9, Steps: 222 | Train Loss: 0.1650889 Vali Loss: 0.0870935 Test Loss: 0.8552381
+Epoch: 10 cost time: 270.2643530368805
+Epoch: 10, Steps: 222 | Train Loss: 0.1649255 Vali Loss: 0.0877548 Test Loss: 0.8467727
+
+MaelNetB1_MaelNetS1_SL_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 2847.288100719452
+Epoch: 1, Steps: 4222 | Train Loss: 0.4528579 Vali Loss: 0.0722923 Test Loss: 0.3645203
+Epoch: 2 cost time: 2665.470072031021
+Epoch: 2, Steps: 4222 | Train Loss: 0.1569648 Vali Loss: 0.0378620 Test Loss: 0.2001756
+Epoch: 3 cost time: 2594.868453979492
+Epoch: 3, Steps: 4222 | Train Loss: 0.0991401 Vali Loss: 0.0326058 Test Loss: 0.1734786
+Epoch: 4 cost time: 2574.3993875980377
+Epoch: 4, Steps: 4222 | Train Loss: 0.0805140 Vali Loss: 0.0302961 Test Loss: 0.1626829
+Epoch: 5 cost time: 2570.09863114357
+Epoch: 5, Steps: 4222 | Train Loss: 0.0724545 Vali Loss: 0.0292403 Test Loss: 0.1594480
+Epoch: 6 cost time: 2571.61905503273
+Epoch: 6, Steps: 4222 | Train Loss: 0.0689784 Vali Loss: 0.0287731 Test Loss: 0.1565034
+Epoch: 7 cost time: 2568.255975008011
+Epoch: 7, Steps: 4222 | Train Loss: 0.0672374 Vali Loss: 0.0285856 Test Loss: 0.1558167
+Epoch: 8 cost time: 2563.3820128440857
+Epoch: 8, Steps: 4222 | Train Loss: 0.0666743 Vali Loss: 0.0283988 Test Loss: 0.1549875
+Epoch: 9 cost time: 2566.780740261078
+Epoch: 9, Steps: 4222 | Train Loss: 0.0658096 Vali Loss: 0.0282722 Test Loss: 0.1551533
+Epoch: 10 cost time: 2563.6572093963623
+Epoch: 10, Steps: 4222 | Train Loss: 0.0654788 Vali Loss: 0.0281635 Test Loss: 0.1549330
+
+Epoch: 1, Steps: 4222 | Train Loss: 0.4580131 Vali Loss: 0.0491675 Test Loss: 0.2916308
+MaelNetB1_MaelNetS1_SMAP_Negative_Corr_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 1500.8887572288513
+Epoch: 2, Steps: 4222 | Train Loss: 0.1574095 Vali Loss: 0.0212969 Test Loss: 0.1843539
+Epoch: 2 cost time: 1513.031660079956
+Epoch: 3, Steps: 4222 | Train Loss: 0.0975516 Vali Loss: 0.0171082 Test Loss: 0.1592075
+Epoch: 3 cost time: 1529.1974713802338
+Epoch: 4, Steps: 4222 | Train Loss: 0.0783353 Vali Loss: 0.0158106 Test Loss: 0.1520965
+Epoch: 4 cost time: 1527.6705055236816
+Epoch: 5, Steps: 4222 | Train Loss: 0.0710615 Vali Loss: 0.0150479 Test Loss: 0.1465881
+Epoch: 5 cost time: 1525.9838647842407
+Epoch: 6, Steps: 4222 | Train Loss: 0.0672915 Vali Loss: 0.0147600 Test Loss: 0.1485562
+Epoch: 6 cost time: 1526.7903950214386
+Epoch: 7, Steps: 4222 | Train Loss: 0.0656621 Vali Loss: 0.0145640 Test Loss: 0.1470346
+Epoch: 7 cost time: 1525.971336364746
+Epoch: 8, Steps: 4222 | Train Loss: 0.0644074 Vali Loss: 0.0144902 Test Loss: 0.1451196
+Epoch: 8 cost time: 1526.5828683376312
+Epoch: 9, Steps: 4222 | Train Loss: 0.0644157 Vali Loss: 0.0144668 Test Loss: 0.1445620
+Epoch: 9 cost time: 1531.9407031536102
+Epoch: 10, Steps: 4222 | Train Loss: 0.0639857 Vali Loss: 0.0144468 Test Loss: 0.1448940
+Epoch: 10 cost time: 1513.2301495075226
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2293390 Vali Loss: 0.1403910 Test Loss: 0.9858034
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 182.17194032669067
+Epoch: 2, Steps: 222 | Train Loss: 0.1963459 Vali Loss: 0.1037423 Test Loss: 0.8792688
+Epoch: 2 cost time: 184.7437882423401
+Epoch: 3, Steps: 222 | Train Loss: 0.1770118 Vali Loss: 0.0933752 Test Loss: 0.8833575
+Epoch: 3 cost time: 184.8647859096527
+Epoch: 4, Steps: 222 | Train Loss: 0.1707002 Vali Loss: 0.0876596 Test Loss: 0.8499138
+Epoch: 4 cost time: 183.08154606819153
+Epoch: 5, Steps: 222 | Train Loss: 0.1676482 Vali Loss: 0.0854676 Test Loss: 0.8511935
+Epoch: 5 cost time: 183.09202194213867
+Epoch: 6, Steps: 222 | Train Loss: 0.1658533 Vali Loss: 0.0903997 Test Loss: 0.8495559
+Epoch: 6 cost time: 140.58264088630676
+Epoch: 7, Steps: 222 | Train Loss: 0.1649844 Vali Loss: 0.0831993 Test Loss: 0.8488053
+Epoch: 7 cost time: 140.208190202713
+Epoch: 8, Steps: 222 | Train Loss: 0.1648367 Vali Loss: 0.0831703 Test Loss: 0.8479545
+Epoch: 8 cost time: 141.9708869457245
+Epoch: 9, Steps: 222 | Train Loss: 0.1653367 Vali Loss: 0.0830148 Test Loss: 0.8477578
+Epoch: 9 cost time: 141.68919610977173
+Epoch: 10, Steps: 222 | Train Loss: 0.1670772 Vali Loss: 0.0830880 Test Loss: 0.8476245
+Epoch: 10 cost time: 140.955961227417
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2293347 Vali Loss: 0.1403784 Test Loss: 0.9853836
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 177.6279740333557
+Epoch: 2, Steps: 222 | Train Loss: 0.1963348 Vali Loss: 0.1037328 Test Loss: 0.8795965
+Epoch: 2 cost time: 183.64522337913513
+Epoch: 3, Steps: 222 | Train Loss: 0.1770086 Vali Loss: 0.0933633 Test Loss: 0.8832806
+Epoch: 3 cost time: 185.12129855155945
+Epoch: 4, Steps: 222 | Train Loss: 0.1706937 Vali Loss: 0.0876487 Test Loss: 0.8498539
+Epoch: 4 cost time: 188.37736320495605
+Epoch: 5, Steps: 222 | Train Loss: 0.1676409 Vali Loss: 0.0854562 Test Loss: 0.8511561
+Epoch: 5 cost time: 185.2163257598877
+Epoch: 6, Steps: 222 | Train Loss: 0.1658461 Vali Loss: 0.0903864 Test Loss: 0.8495319
+Epoch: 6 cost time: 140.32958817481995
+Epoch: 7, Steps: 222 | Train Loss: 0.1649775 Vali Loss: 0.0831885 Test Loss: 0.8487818
+Epoch: 7 cost time: 141.24974942207336
+Epoch: 8, Steps: 222 | Train Loss: 0.1648290 Vali Loss: 0.0831589 Test Loss: 0.8479398
+Epoch: 8 cost time: 142.03332233428955
+Epoch: 9, Steps: 222 | Train Loss: 0.1653295 Vali Loss: 0.0830036 Test Loss: 0.8477267
+Epoch: 9 cost time: 141.38046789169312
+Epoch: 10, Steps: 222 | Train Loss: 0.1670701 Vali Loss: 0.0830769 Test Loss: 0.8475884
+Epoch: 10 cost time: 141.5061993598938
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2293319 Vali Loss: 0.1403709 Test Loss: 0.9852017
+MaelNetB1_MaelNetS1_SMD_Negative_Corr_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 179.15092086791992
+Epoch: 2, Steps: 222 | Train Loss: 0.1963290 Vali Loss: 0.1037278 Test Loss: 0.8797158
+Epoch: 2 cost time: 183.32047295570374
+Epoch: 3, Steps: 222 | Train Loss: 0.1770050 Vali Loss: 0.0933571 Test Loss: 0.8831947
+Epoch: 3 cost time: 186.27515053749084
+Epoch: 4, Steps: 222 | Train Loss: 0.1706894 Vali Loss: 0.0876427 Test Loss: 0.8498452
+Epoch: 4 cost time: 187.10171389579773
+Epoch: 5, Steps: 222 | Train Loss: 0.1676374 Vali Loss: 0.0854501 Test Loss: 0.8511536
+Epoch: 5 cost time: 188.67894530296326
+Epoch: 6, Steps: 222 | Train Loss: 0.1658420 Vali Loss: 0.0903796 Test Loss: 0.8495198
+Epoch: 6 cost time: 142.81454372406006
+Epoch: 7, Steps: 222 | Train Loss: 0.1649736 Vali Loss: 0.0831823 Test Loss: 0.8487841
+Epoch: 7 cost time: 143.4127504825592
+Epoch: 8, Steps: 222 | Train Loss: 0.1648256 Vali Loss: 0.0831525 Test Loss: 0.8479269
+Epoch: 8 cost time: 141.00468707084656
+Epoch: 9, Steps: 222 | Train Loss: 0.1653258 Vali Loss: 0.0829973 Test Loss: 0.8477226
+Epoch: 9 cost time: 142.21051454544067
+Epoch: 10, Steps: 222 | Train Loss: 0.1670664 Vali Loss: 0.0830704 Test Loss: 0.8475733
+Epoch: 10 cost time: 142.073664188385
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2293861 Vali Loss: 0.1405212 Test Loss: 0.9896486
+MaelNetB1_MaelNetS1_SMD_MSE_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 180.42322516441345
+Epoch: 2, Steps: 222 | Train Loss: 0.1964385 Vali Loss: 0.1038360 Test Loss: 0.8766766
+Epoch: 2 cost time: 183.08188271522522
+Epoch: 3, Steps: 222 | Train Loss: 0.1770590 Vali Loss: 0.0934807 Test Loss: 0.8839499
+Epoch: 3 cost time: 185.11496806144714
+Epoch: 4, Steps: 222 | Train Loss: 0.1707651 Vali Loss: 0.0877566 Test Loss: 0.8503224
+Epoch: 4 cost time: 184.8667550086975
+Epoch: 5, Steps: 222 | Train Loss: 0.1677161 Vali Loss: 0.0855670 Test Loss: 0.8514177
+Epoch: 5 cost time: 193.68604278564453
+Epoch: 6, Steps: 222 | Train Loss: 0.1659187 Vali Loss: 0.0905124 Test Loss: 0.8497731
+Epoch: 6 cost time: 137.74357652664185
+Epoch: 7, Steps: 222 | Train Loss: 0.1650497 Vali Loss: 0.0832992 Test Loss: 0.8490321
+Epoch: 7 cost time: 138.6574890613556
+Epoch: 8, Steps: 222 | Train Loss: 0.1649021 Vali Loss: 0.0832707 Test Loss: 0.8481753
+Epoch: 8 cost time: 142.42410445213318
+Epoch: 9, Steps: 222 | Train Loss: 0.1654018 Vali Loss: 0.0831153 Test Loss: 0.8479664
+Epoch: 9 cost time: 140.78189992904663
+Epoch: 10, Steps: 222 | Train Loss: 0.1671434 Vali Loss: 0.0831891 Test Loss: 0.8478254
+Epoch: 10 cost time: 139.46698379516602
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2288681 Vali Loss: 0.1390371 Test Loss: 0.9197369
+MaelNetB1_MaelNetS1_SMD_MSE_NO_SL_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 134.39980554580688
+Epoch: 2, Steps: 222 | Train Loss: 0.1999327 Vali Loss: 0.1048438 Test Loss: 0.8644074
+Epoch: 2 cost time: 137.04261541366577
+Epoch: 3, Steps: 222 | Train Loss: 0.1774935 Vali Loss: 0.0936913 Test Loss: 0.8770540
+Epoch: 3 cost time: 140.8563108444214
+Epoch: 4, Steps: 222 | Train Loss: 0.1715211 Vali Loss: 0.0899466 Test Loss: 0.8508373
+Epoch: 4 cost time: 141.54338097572327
+Epoch: 5, Steps: 222 | Train Loss: 0.1685222 Vali Loss: 0.0872945 Test Loss: 0.8483935
+Epoch: 5 cost time: 142.09648084640503
+Epoch: 6, Steps: 222 | Train Loss: 0.1672203 Vali Loss: 0.0907739 Test Loss: 0.8461174
+Epoch: 6 cost time: 141.79452919960022
+Epoch: 7, Steps: 222 | Train Loss: 0.1660886 Vali Loss: 0.0852111 Test Loss: 0.8439651
+Epoch: 7 cost time: 143.16669535636902
+Epoch: 8, Steps: 222 | Train Loss: 0.1670057 Vali Loss: 0.0854782 Test Loss: 0.8437669
+Epoch: 8 cost time: 142.60345649719238
+Epoch: 9, Steps: 222 | Train Loss: 0.1657546 Vali Loss: 0.0849760 Test Loss: 0.8435851
+Epoch: 9 cost time: 143.63202166557312
+Epoch: 10, Steps: 222 | Train Loss: 0.1657976 Vali Loss: 0.0846455 Test Loss: 0.8434999
+Epoch: 10 cost time: 140.61639380455017
+
+Epoch: 1, Steps: 4222 | Train Loss: 0.4581299 Vali Loss: 0.0492077 Test Loss: 0.2907940
+MaelNetB1_MaelNetS1_SMAP_MSE_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 1490.2178790569305
+Epoch: 2, Steps: 4222 | Train Loss: 0.1573627 Vali Loss: 0.0213485 Test Loss: 0.1799776
+Epoch: 2 cost time: 1513.0086953639984
+Epoch: 3, Steps: 4222 | Train Loss: 0.0979405 Vali Loss: 0.0174667 Test Loss: 0.1576768
+Epoch: 3 cost time: 1521.157233953476
+Epoch: 4, Steps: 4222 | Train Loss: 0.0791706 Vali Loss: 0.0161839 Test Loss: 0.1509140
+Epoch: 4 cost time: 1525.228924036026
+Epoch: 5, Steps: 4222 | Train Loss: 0.0718720 Vali Loss: 0.0154497 Test Loss: 0.1452710
+Epoch: 5 cost time: 1524.560932636261
+Epoch: 6, Steps: 4222 | Train Loss: 0.0680848 Vali Loss: 0.0151455 Test Loss: 0.1469558
+Epoch: 6 cost time: 1521.9230704307556
+Epoch: 7, Steps: 4222 | Train Loss: 0.0664352 Vali Loss: 0.0149507 Test Loss: 0.1459744
+Epoch: 7 cost time: 1524.7190463542938
+Epoch: 8, Steps: 4222 | Train Loss: 0.0651045 Vali Loss: 0.0148877 Test Loss: 0.1443548
+Epoch: 8 cost time: 1526.686357975006
+Epoch: 9, Steps: 4222 | Train Loss: 0.0651726 Vali Loss: 0.0148500 Test Loss: 0.1435221
+Epoch: 9 cost time: 1525.8181903362274
+Epoch: 10, Steps: 4222 | Train Loss: 0.0647348 Vali Loss: 0.0148305 Test Loss: 0.1439653
+Epoch: 10 cost time: 1529.1502401828766
+
+Epoch: 1, Steps: 4222 | Train Loss: 0.4585426 Vali Loss: 0.0492113 Test Loss: 0.2902841
+MaelNetB1_MaelNetS1_SMAP_MSE_NO_SLOW_LEARNER_MaelNetB1_SMAP_ftM_dm25_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 1232.7933320999146
+Epoch: 2, Steps: 4222 | Train Loss: 0.1573875 Vali Loss: 0.0210542 Test Loss: 0.1835752
+Epoch: 2 cost time: 1259.5306189060211
+Epoch: 3, Steps: 4222 | Train Loss: 0.0980163 Vali Loss: 0.0176135 Test Loss: 0.1618090
+Epoch: 3 cost time: 1253.5921931266785
+Epoch: 4, Steps: 4222 | Train Loss: 0.0787689 Vali Loss: 0.0155811 Test Loss: 0.1512845
+Epoch: 4 cost time: 1259.4592790603638
+Epoch: 5, Steps: 4222 | Train Loss: 0.0702371 Vali Loss: 0.0149105 Test Loss: 0.1493451
+Epoch: 5 cost time: 1256.7045211791992
+Epoch: 6, Steps: 4222 | Train Loss: 0.0668057 Vali Loss: 0.0145858 Test Loss: 0.1483032
+Epoch: 6 cost time: 1255.6004135608673
+Epoch: 7, Steps: 4222 | Train Loss: 0.0653485 Vali Loss: 0.0144423 Test Loss: 0.1470258
+Epoch: 7 cost time: 1256.4968180656433
+Epoch: 8, Steps: 4222 | Train Loss: 0.0642311 Vali Loss: 0.0143660 Test Loss: 0.1462517
+Epoch: 8 cost time: 1263.1932966709137
+Epoch: 9, Steps: 4222 | Train Loss: 0.0637290 Vali Loss: 0.0143395 Test Loss: 0.1464040
+Epoch: 9 cost time: 1262.5283751487732
+Epoch: 10, Steps: 4222 | Train Loss: 0.0637983 Vali Loss: 0.0143156 Test Loss: 0.1464553
+Epoch: 10 cost time: 1261.536271572113
+
+Epoch: 1, Steps: 222 | Train Loss: 0.1509314 Vali Loss: 0.0468452 Test Loss: 0.6218879
+NSTransformerB1_NSTransformerS1_SMD_MSE_NO_SL_NSTransformerB1_SMD_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_Exp_h256_l2_0  
+Epoch: 1 cost time: 249.53125739097595
+Epoch: 2, Steps: 222 | Train Loss: 0.1105887 Vali Loss: 0.0397432 Test Loss: 0.5793545
+Epoch: 2 cost time: 249.87752485275269
+Epoch: 3, Steps: 222 | Train Loss: 0.0991357 Vali Loss: 0.0352496 Test Loss: 0.5281568
+Epoch: 3 cost time: 251.96648931503296
+Epoch: 4, Steps: 222 | Train Loss: 0.0891080 Vali Loss: 0.0340538 Test Loss: 0.5238086
+Epoch: 4 cost time: 250.55606126785278
+Epoch: 5, Steps: 222 | Train Loss: 0.0842500 Vali Loss: 0.0339627 Test Loss: 0.5133594
+Epoch: 5 cost time: 252.59501218795776
+Epoch: 6, Steps: 222 | Train Loss: 0.0826790 Vali Loss: 0.0338523 Test Loss: 0.5106742
+Epoch: 6 cost time: 252.66285824775696
+Epoch: 7, Steps: 222 | Train Loss: 0.0813685 Vali Loss: 0.0342325 Test Loss: 0.5098227
+Epoch: 7 cost time: 252.98125767707825
+Epoch: 8, Steps: 222 | Train Loss: 0.0810543 Vali Loss: 0.0336061 Test Loss: 0.5091307
+Epoch: 8 cost time: 252.2742223739624
+Epoch: 9, Steps: 222 | Train Loss: 0.0807140 Vali Loss: 0.0336510 Test Loss: 0.5086063
+Epoch: 9 cost time: 253.29997968673706
+Epoch: 10, Steps: 222 | Train Loss: 0.0817015 Vali Loss: 0.0336510 Test Loss: 0.5083337
+Epoch: 10 cost time: 253.44679069519043
+
+Epoch: 1, Steps: 4222 | Train Loss: 0.0786316 Vali Loss: 0.0172729 Test Loss: 0.2091805
+NSTransformerB1_NSTransformerS1_SMAP_MSE_NO_SL_NSTransformerB1_SMAP_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_Exp_h256_l2_0  
+Epoch: 1 cost time: 4433.4794063568115
+Epoch: 2, Steps: 4222 | Train Loss: 0.0273641 Vali Loss: 0.0131840 Test Loss: 0.1750926
+Epoch: 2 cost time: 4457.3680255413055
+Epoch: 3, Steps: 4222 | Train Loss: 0.0173939 Vali Loss: 0.0114760 Test Loss: 0.1558336
+Epoch: 3 cost time: 4458.025995492935
+Epoch: 4, Steps: 4222 | Train Loss: 0.0136989 Vali Loss: 0.0101106 Test Loss: 0.1464793
+Epoch: 4 cost time: 4466.955704212189
+Epoch: 5, Steps: 4222 | Train Loss: 0.0119534 Vali Loss: 0.0099241 Test Loss: 0.1398904
+Epoch: 5 cost time: 4452.03156042099
+Epoch: 6, Steps: 4222 | Train Loss: 0.0111526 Vali Loss: 0.0095034 Test Loss: 0.1456827
+Epoch: 6 cost time: 4454.508197784424
+Epoch: 7, Steps: 4222 | Train Loss: 0.0107549 Vali Loss: 0.0093602 Test Loss: 0.1440134
+Epoch: 7 cost time: 4446.358190774918
+Epoch: 8, Steps: 4222 | Train Loss: 0.0105507 Vali Loss: 0.0092666 Test Loss: 0.1444911
+Epoch: 8 cost time: 4445.456269025803
+Epoch: 9, Steps: 4222 | Train Loss: 0.0104957 Vali Loss: 0.0092838 Test Loss: 0.1439416
+Epoch: 9 cost time: 4441.214566230774
+Epoch: 10, Steps: 4222 | Train Loss: 0.0104390 Vali Loss: 0.0092516 Test Loss: 0.1441303
+Epoch: 10 cost time: 4442.472826242447
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2413664 Vali Loss: 0.1444314 Test Loss: 1.0551648
+MaelNetB1_MaelNetS1_SMD_MSE_NO_SL2_MaelNetB1_SMD_ftM_dm38_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 133.21996212005615
+Epoch: 2, Steps: 222 | Train Loss: 0.2052963 Vali Loss: 0.1059275 Test Loss: 0.8819656
+Epoch: 2 cost time: 134.06048154830933
+Epoch: 3, Steps: 222 | Train Loss: 0.1781293 Vali Loss: 0.0944517 Test Loss: 0.8712099
+Epoch: 3 cost time: 135.71666979789734
+Epoch: 4, Steps: 222 | Train Loss: 0.1705787 Vali Loss: 0.0894525 Test Loss: 0.8656279
+Epoch: 4 cost time: 137.25946474075317
+Epoch: 5, Steps: 222 | Train Loss: 0.1675700 Vali Loss: 0.0880953 Test Loss: 0.8610693
+Epoch: 5 cost time: 136.9868128299713
+Epoch: 6, Steps: 222 | Train Loss: 0.1658532 Vali Loss: 0.0851931 Test Loss: 0.8592631
+Epoch: 6 cost time: 136.74493861198425
+Epoch: 7, Steps: 222 | Train Loss: 0.1650564 Vali Loss: 0.0853173 Test Loss: 0.8586385
+Epoch: 7 cost time: 137.27006220817566
+Epoch: 8, Steps: 222 | Train Loss: 0.1645406 Vali Loss: 0.0840543 Test Loss: 0.8580804
+Epoch: 8 cost time: 136.39401245117188
+Epoch: 9, Steps: 222 | Train Loss: 0.1642883 Vali Loss: 0.0840925 Test Loss: 0.8577729
+Epoch: 9 cost time: 136.2708396911621
+Epoch: 10, Steps: 222 | Train Loss: 0.1643689 Vali Loss: 0.0849242 Test Loss: 0.8575133
+Epoch: 10 cost time: 135.23049664497375
+
+Epoch: 1, Steps: 4222 | Train Loss: 0.1253825 Vali Loss: 0.0041989 Test Loss: 0.1926990
+MaelNetB1_MaelNetS1_SMAP_MSE_NO_SL2_MaelNetB1_SMAP_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 1258.7620584964752
+Epoch: 2, Steps: 4222 | Train Loss: 0.0424007 Vali Loss: 0.0092966 Test Loss: 0.7421863
+Epoch: 2 cost time: 1264.7017724514008
+Epoch: 3, Steps: 4222 | Train Loss: 0.0197882 Vali Loss: 0.0016500 Test Loss: 0.1505248
+Epoch: 3 cost time: 1241.2426972389221
+Epoch: 4, Steps: 4222 | Train Loss: 0.0081058 Vali Loss: 0.0011617 Test Loss: 0.1420234
+Epoch: 4 cost time: 1237.4944531917572
+Epoch: 5, Steps: 4222 | Train Loss: 0.0048194 Vali Loss: 0.0010233 Test Loss: 0.1353871
+Epoch: 5 cost time: 1235.709631204605
+Epoch: 6, Steps: 4222 | Train Loss: 0.0036792 Vali Loss: 0.0009440 Test Loss: 0.1317681
+Epoch: 6 cost time: 1234.965240240097
+Epoch: 7, Steps: 4222 | Train Loss: 0.0033060 Vali Loss: 0.0008601 Test Loss: 0.1306280
+Epoch: 7 cost time: 1235.693287372589
+Epoch: 8, Steps: 4222 | Train Loss: 0.0031157 Vali Loss: 0.0008397 Test Loss: 0.1298706
+Epoch: 8 cost time: 1232.379233598709
+Epoch: 9, Steps: 4222 | Train Loss: 0.0030255 Vali Loss: 0.0008044 Test Loss: 0.1293630
+Epoch: 9 cost time: 1230.1925585269928
+Epoch: 10, Steps: 4222 | Train Loss: 0.0029861 Vali Loss: 0.0008025 Test Loss: 0.1292599
+Epoch: 10 cost time: 1231.4009099006653
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2293445 Vali Loss: 0.0359487 Test Loss: 1.1881471
+MaelNetB1_MaelNetS1_SMD_MSE_NO_SL2_MaelNetB1_SMD_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 136.73168325424194
+Epoch: 2, Steps: 222 | Train Loss: 0.2460281 Vali Loss: 0.0245091 Test Loss: 7.4379520
+Epoch: 2 cost time: 133.85526299476624
+Epoch: 3, Steps: 222 | Train Loss: 0.2197986 Vali Loss: 0.0208226 Test Loss: 4.3964210
+Epoch: 3 cost time: 133.16274046897888
+Epoch: 4, Steps: 222 | Train Loss: 0.5545820 Vali Loss: 0.0194440 Test Loss: 0.7620571
+Epoch: 4 cost time: 135.45272564888
+Epoch: 5, Steps: 222 | Train Loss: 0.1043707 Vali Loss: 0.0188043 Test Loss: 0.6635139
+Epoch: 5 cost time: 136.4806296825409
+Epoch: 6, Steps: 222 | Train Loss: 0.0925539 Vali Loss: 0.0186624 Test Loss: 0.6354296
+Epoch: 6 cost time: 135.2291440963745
+Epoch: 7, Steps: 222 | Train Loss: 0.0875561 Vali Loss: 0.0182144 Test Loss: 0.6356195
+Epoch: 7 cost time: 136.54971837997437
+Epoch: 8, Steps: 222 | Train Loss: 0.0861293 Vali Loss: 0.0182330 Test Loss: 0.6239759
+Epoch: 8 cost time: 134.16525173187256
+Epoch: 9, Steps: 222 | Train Loss: 0.0847253 Vali Loss: 0.0180542 Test Loss: 0.6219025
+Epoch: 9 cost time: 133.97058010101318
+Epoch: 10, Steps: 222 | Train Loss: 0.0842688 Vali Loss: 0.0185302 Test Loss: 0.6207187
+Epoch: 10 cost time: 133.87711882591248
+
+Epoch: 1, Steps: 1820 | Train Loss: 0.0959561 Vali Loss: 0.0083721 Test Loss: 0.1558313
+MaelNetB1_MaelNetS1_MSL_MSE_NO_SL2_MaelNetB1_MSL_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 755.9749472141266
+Epoch: 2, Steps: 1820 | Train Loss: 0.0174905 Vali Loss: 0.0091709 Test Loss: 0.1338868
+Epoch: 2 cost time: 748.2983577251434
+Epoch: 3, Steps: 1820 | Train Loss: 0.0069912 Vali Loss: 0.0029149 Test Loss: 0.0896044
+Epoch: 3 cost time: 758.5881690979004
+Epoch: 4, Steps: 1820 | Train Loss: 0.0044972 Vali Loss: 0.0019081 Test Loss: 0.0930241
+Epoch: 4 cost time: 771.2765142917633
+Epoch: 5, Steps: 1820 | Train Loss: 0.0032631 Vali Loss: 0.0020501 Test Loss: 0.0846306
+Epoch: 5 cost time: 774.2735216617584
+Epoch: 6, Steps: 1820 | Train Loss: 0.0029073 Vali Loss: 0.0020055 Test Loss: 0.0845194
+Epoch: 6 cost time: 776.2078468799591
+Epoch: 7, Steps: 1820 | Train Loss: 0.0026927 Vali Loss: 0.0021148 Test Loss: 0.0838317
+Epoch: 7 cost time: 777.5713970661163
+
+Epoch: 1, Steps: 1820 | Train Loss: 0.0929860 Vali Loss: 0.0069726 Test Loss: 0.1574013
+MaelNetB1_MaelNetS1_MSL_MSE_NO_SL2_MaelNetB1_MSL_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 743.1156539916992
+Epoch: 2, Steps: 1820 | Train Loss: 0.0188059 Vali Loss: 0.0073902 Test Loss: 0.1208012
+Epoch: 2 cost time: 749.0414276123047
+Epoch: 3, Steps: 1820 | Train Loss: 0.0064548 Vali Loss: 0.0019223 Test Loss: 0.0841858
+Epoch: 3 cost time: 758.080025434494
+Epoch: 4, Steps: 1820 | Train Loss: 0.0042759 Vali Loss: 0.0012773 Test Loss: 0.0943183
+Epoch: 4 cost time: 771.6967215538025
+Epoch: 5, Steps: 1820 | Train Loss: 0.0031379 Vali Loss: 0.0010874 Test Loss: 0.0850324
+Epoch: 5 cost time: 773.8290085792542
+Epoch: 6, Steps: 1820 | Train Loss: 0.0027988 Vali Loss: 0.0008682 Test Loss: 0.0850069
+Epoch: 6 cost time: 776.0674526691437
+Epoch: 7, Steps: 1820 | Train Loss: 0.0025834 Vali Loss: 0.0008794 Test Loss: 0.0846175
+Epoch: 7 cost time: 776.7849175930023
+Epoch: 8, Steps: 1820 | Train Loss: 0.0024993 Vali Loss: 0.0008210 Test Loss: 0.0839548
+Epoch: 8 cost time: 669.2219259738922
+Epoch: 9, Steps: 1820 | Train Loss: 0.0024754 Vali Loss: 0.0008143 Test Loss: 0.0839558
+Epoch: 9 cost time: 684.4527540206909
+Epoch: 10, Steps: 1820 | Train Loss: 0.0024291 Vali Loss: 0.0008043 Test Loss: 0.0839579
+Epoch: 10 cost time: 692.049884557724
+
+Epoch: 1, Steps: 1820 | Train Loss: 0.0857788 Vali Loss: 0.0079097 Test Loss: 0.1217657
+MaelNetB1_MaelNetS1_MSL_MSE_NO_SL2_MaelNetB1_MSL_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_1  
+Epoch: 1 cost time: 466.6584084033966
+Epoch: 2, Steps: 1820 | Train Loss: 0.0160697 Vali Loss: 0.0031398 Test Loss: 0.1453304
+Epoch: 2 cost time: 466.0848796367645
+Epoch: 3, Steps: 1820 | Train Loss: 0.0065088 Vali Loss: 0.0017020 Test Loss: 0.1037934
+Epoch: 3 cost time: 465.6038656234741
+Epoch: 4, Steps: 1820 | Train Loss: 0.0041194 Vali Loss: 0.0013709 Test Loss: 0.0924038
+Epoch: 4 cost time: 468.2216098308563
+Epoch: 5, Steps: 1820 | Train Loss: 0.0033381 Vali Loss: 0.0011680 Test Loss: 0.0890847
+Epoch: 5 cost time: 466.2657768726349
+Epoch: 6, Steps: 1820 | Train Loss: 0.0028859 Vali Loss: 0.0011018 Test Loss: 0.0897819
+Epoch: 6 cost time: 465.6484889984131
+Epoch: 7, Steps: 1820 | Train Loss: 0.0027120 Vali Loss: 0.0010510 Test Loss: 0.0879336
+Epoch: 7 cost time: 469.152902841568
+Epoch: 8, Steps: 1820 | Train Loss: 0.0026432 Vali Loss: 0.0010018 Test Loss: 0.0878896
+Epoch: 8 cost time: 514.5906586647034
+Epoch: 9, Steps: 1820 | Train Loss: 0.0026045 Vali Loss: 0.0009926 Test Loss: 0.0876086
+Epoch: 9 cost time: 509.0264801979065
+Epoch: 10, Steps: 1820 | Train Loss: 0.0025659 Vali Loss: 0.0009674 Test Loss: 0.0874317
+Epoch: 10 cost time: 487.6695911884308
+
+Epoch: 1, Steps: 1820 | Train Loss: 0.0995937 Vali Loss: 0.0095927 Test Loss: 0.1942814
+MaelNetB1_MaelNetS1_MSL_MSE_NO_SL2_MaelNetB1_MSL_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_2  
+Epoch: 1 cost time: 467.13610911369324
+Epoch: 2, Steps: 1820 | Train Loss: 0.0315937 Vali Loss: 0.0051130 Test Loss: 0.1361807
+Epoch: 2 cost time: 467.3409061431885
+Epoch: 3, Steps: 1820 | Train Loss: 0.0076580 Vali Loss: 0.0022256 Test Loss: 0.0980430
+Epoch: 3 cost time: 469.98290371894836
+Epoch: 4, Steps: 1820 | Train Loss: 0.0046476 Vali Loss: 0.0016828 Test Loss: 0.0908641
+Epoch: 4 cost time: 466.09473156929016
+Epoch: 5, Steps: 1820 | Train Loss: 0.0036207 Vali Loss: 0.0013265 Test Loss: 0.0863483
+Epoch: 5 cost time: 466.4115517139435
+Epoch: 6, Steps: 1820 | Train Loss: 0.0032054 Vali Loss: 0.0012267 Test Loss: 0.0837909
+Epoch: 6 cost time: 466.87328338623047
+Epoch: 7, Steps: 1820 | Train Loss: 0.0029844 Vali Loss: 0.0011905 Test Loss: 0.0830463
+Epoch: 7 cost time: 466.68964743614197
+Epoch: 8, Steps: 1820 | Train Loss: 0.0028692 Vali Loss: 0.0011101 Test Loss: 0.0833810
+Epoch: 8 cost time: 467.06271147727966
+Epoch: 9, Steps: 1820 | Train Loss: 0.0028207 Vali Loss: 0.0010950 Test Loss: 0.0828724
+Epoch: 9 cost time: 492.52912163734436
+Epoch: 10, Steps: 1820 | Train Loss: 0.0027843 Vali Loss: 0.0010988 Test Loss: 0.0828563
+Epoch: 10 cost time: 489.8720049858093
+
+Epoch: 1, Steps: 15466 | Train Loss: 0.0018374 Vali Loss: 0.0002463 Test Loss: 0.0032883
+MaelNetB1_MaelNetS1_SWaT_MSE_NO_SL2_MaelNetB1_SWaT_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 3127.5118997097015
+Epoch: 2, Steps: 15466 | Train Loss: 0.0005751 Vali Loss: 0.0002092 Test Loss: 0.0023374
+Epoch: 2 cost time: 3185.1138546466827
+Epoch: 3, Steps: 15466 | Train Loss: 0.0002307 Vali Loss: 0.0001117 Test Loss: 0.0013983
+Epoch: 3 cost time: 3193.6936848163605
+Epoch: 4, Steps: 15466 | Train Loss: 0.0001375 Vali Loss: 0.0000871 Test Loss: 0.0009777
+Epoch: 4 cost time: 3011.6458451747894
+Epoch: 5, Steps: 15466 | Train Loss: 0.0001060 Vali Loss: 0.0000710 Test Loss: 0.0008238
+Epoch: 5 cost time: 2994.83575797081
+Epoch: 6, Steps: 15466 | Train Loss: 0.0000924 Vali Loss: 0.0000543 Test Loss: 0.0007411
+Epoch: 6 cost time: 2991.536310195923
+Epoch: 7, Steps: 15466 | Train Loss: 0.0000866 Vali Loss: 0.0000531 Test Loss: 0.0006928
+Epoch: 7 cost time: 2986.257024049759
+Epoch: 8, Steps: 15466 | Train Loss: 0.0000837 Vali Loss: 0.0000505 Test Loss: 0.0006761
+Epoch: 8 cost time: 2981.326838493347
+Epoch: 9, Steps: 15466 | Train Loss: 0.0000825 Vali Loss: 0.0000524 Test Loss: 0.0006682
+Epoch: 9 cost time: 2994.499744653702
+Epoch: 10, Steps: 15466 | Train Loss: 0.0000818 Vali Loss: 0.0000524 Test Loss: 0.0006664
+Epoch: 10 cost time: 2983.436738729477
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2293441 Vali Loss: 0.0359488 Test Loss: 1.1880748
+MaelNet_MANTRA_TA_MaelNetB1_SMD_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_TA_0  
+Epoch: 1 cost time: 137.06956458091736
+Epoch: 2, Steps: 222 | Train Loss: 0.2460331 Vali Loss: 0.0245095 Test Loss: 7.4380770
+Epoch: 2 cost time: 138.68420577049255
+Epoch: 3, Steps: 222 | Train Loss: 0.2198145 Vali Loss: 0.0208228 Test Loss: 4.3975997
+Epoch: 3 cost time: 137.3136022090912
+Epoch: 4, Steps: 222 | Train Loss: 0.5547558 Vali Loss: 0.0194441 Test Loss: 0.7621783
+Epoch: 4 cost time: 138.2412624359131
+Epoch: 5, Steps: 222 | Train Loss: 0.1043913 Vali Loss: 0.0188044 Test Loss: 0.6635545
+Epoch: 5 cost time: 138.50658702850342
+Epoch: 6, Steps: 222 | Train Loss: 0.0925631 Vali Loss: 0.0186625 Test Loss: 0.6354454
+Epoch: 6 cost time: 138.72292757034302
+Epoch: 7, Steps: 222 | Train Loss: 0.0875623 Vali Loss: 0.0182144 Test Loss: 0.6356381
+Epoch: 7 cost time: 138.6133255958557
+Epoch: 8, Steps: 222 | Train Loss: 0.0861354 Vali Loss: 0.0182332 Test Loss: 0.6239844
+Epoch: 8 cost time: 138.60796928405762
+Epoch: 9, Steps: 222 | Train Loss: 0.0847293 Vali Loss: 0.0180544 Test Loss: 0.6219155
+Epoch: 9 cost time: 138.79903769493103
+Epoch: 10, Steps: 222 | Train Loss: 0.0842733 Vali Loss: 0.0185304 Test Loss: 0.6207361
+Epoch: 10 cost time: 139.53100037574768
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2017258 Vali Loss: 0.0582414 Test Loss: 2.2968745
+MaelNet_MANTRA_TA_MaelNetB1_SMD_ftM_dm256_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_TA_0  
+Epoch: 1 cost time: 131.2362265586853
+Epoch: 2, Steps: 222 | Train Loss: 0.2678224 Vali Loss: 0.0376563 Test Loss: 0.7275454
+Epoch: 2 cost time: 129.58861804008484
+Epoch: 3, Steps: 222 | Train Loss: 0.1151962 Vali Loss: 0.0323767 Test Loss: 0.7152585
+Epoch: 3 cost time: 132.65449905395508
+Epoch: 4, Steps: 222 | Train Loss: 0.1054355 Vali Loss: 0.0307406 Test Loss: 0.6959077
+Epoch: 4 cost time: 132.8395619392395
+Epoch: 5, Steps: 222 | Train Loss: 0.1015083 Vali Loss: 0.0290833 Test Loss: 0.6822973
+Epoch: 5 cost time: 138.46851348876953
+Epoch: 6, Steps: 222 | Train Loss: 0.0994672 Vali Loss: 0.0285759 Test Loss: 0.6787804
+Epoch: 6 cost time: 142.47728443145752
+Epoch: 7, Steps: 222 | Train Loss: 0.0984803 Vali Loss: 0.0279606 Test Loss: 0.6754872
+Epoch: 7 cost time: 135.5142047405243
+Epoch: 8, Steps: 222 | Train Loss: 0.0976341 Vali Loss: 0.0288318 Test Loss: 0.6738201
+Epoch: 8 cost time: 135.15229201316833
+Epoch: 9, Steps: 222 | Train Loss: 0.0976961 Vali Loss: 0.0279260 Test Loss: 0.6732681
+Epoch: 9 cost time: 135.03845715522766
+Epoch: 10, Steps: 222 | Train Loss: 0.0973967 Vali Loss: 0.0278466 Test Loss: 0.6730683
+Epoch: 10 cost time: 135.4500617980957
+
+Epoch: 1, Steps: 222 | Train Loss: 0.2086108 Vali Loss: 0.0890786 Test Loss: 0.9397351
+MaelNet_MANTRA_TA_MaelNetB1_SMD_ftM_dm128_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_TA_0  
+Epoch: 1 cost time: 123.60497689247131
+Epoch: 2, Steps: 222 | Train Loss: 0.1870084 Vali Loss: 0.0591807 Test Loss: 0.9982795
+Epoch: 2 cost time: 123.80440855026245
+Epoch: 3, Steps: 222 | Train Loss: 0.1623311 Vali Loss: 0.0499404 Test Loss: 0.7711403
+Epoch: 3 cost time: 129.89214515686035
+Epoch: 4, Steps: 222 | Train Loss: 0.1291356 Vali Loss: 0.0481734 Test Loss: 0.7742269
+Epoch: 4 cost time: 128.20433807373047
+Epoch: 5, Steps: 222 | Train Loss: 0.1255116 Vali Loss: 0.0440859 Test Loss: 0.7694604
+Epoch: 5 cost time: 129.22319531440735
+Epoch: 6, Steps: 222 | Train Loss: 0.1234872 Vali Loss: 0.0438471 Test Loss: 0.7671050
+Epoch: 6 cost time: 127.38662695884705
+Epoch: 7, Steps: 222 | Train Loss: 0.1224593 Vali Loss: 0.0425879 Test Loss: 0.7654236
+Epoch: 7 cost time: 127.56823945045471
+Epoch: 8, Steps: 222 | Train Loss: 0.1220469 Vali Loss: 0.0426086 Test Loss: 0.7645390
+Epoch: 8 cost time: 130.71528553962708
+Epoch: 9, Steps: 222 | Train Loss: 0.1226949 Vali Loss: 0.0423407 Test Loss: 0.7641562
+Epoch: 9 cost time: 129.8344066143036
+Epoch: 10, Steps: 222 | Train Loss: 0.1216411 Vali Loss: 0.0425280 Test Loss: 0.7638067
+Epoch: 10 cost time: 131.7248706817627
+
