@@ -14,7 +14,11 @@ import time
 import warnings
 import numpy as np
 import csv
+from datetime import datetime
 warnings.filterwarnings('ignore')
+
+now = datetime.now()
+dt_string = now.strftime("%Y%m%d-%H%M%S")
 
 class Exp_Anomaly_Detection_SL(Exp_Basic):
     def __init__(self, args):
@@ -84,8 +88,8 @@ class Exp_Anomaly_Detection_SL(Exp_Basic):
         early_stopping = EarlyStopping_Asso_Discrep(patience=self.args.patience, verbose=True, slow_learner=True)
         model_optim = self._select_optimizer()    
 
-        f = open("training_anomaly_detection_asso_discrep_slow.txt", 'a')
-        f_csv = open("training_anomaly_detection_asso_discrep_slow.csv","a")
+        f = open("training_anomaly_detection_asso_discrep_slow" + dt_string + ".txt", 'a')
+        f_csv = open("training_anomaly_detection_asso_discrep_slow" + dt_string + ".csv","a")
 
         csvreader = csv.writer(f_csv)
         for epoch in tqdm(list(range(self.args.train_epochs))):
