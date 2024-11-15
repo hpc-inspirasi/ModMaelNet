@@ -1,4 +1,4 @@
-py -u run.py \
+python -u run.py \
   --is_training 1 \
   --root_path ./dataset/MSL/ \
   --model_id NSTransformer_MSL \
