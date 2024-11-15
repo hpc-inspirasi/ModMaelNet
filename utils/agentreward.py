@@ -169,7 +169,8 @@ class EnvOffline_dist_conf(gym.Env):
         # state_dim is 4 , each corresponds to scaled_sc, scaled_thresholds, pred, dist_conf 
         # remove default dtype
         # self.observation_space = spaces.Box(low=0, high=1, shape=(4, ), dtype=np.float32)
-        self.observation_space = spaces.Box(low=0, high=1, shape=(4, ))
+        # self.observation_space = spaces.Box(low=0, high=1, shape=(4, ))
+        self.observation_space = spaces.Box(4, )
         self.seed()
         self.reset()
 
