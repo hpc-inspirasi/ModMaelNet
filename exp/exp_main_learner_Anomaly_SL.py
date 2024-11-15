@@ -88,8 +88,11 @@ class Exp_Anomaly_Detection_SL(Exp_Basic):
         early_stopping = EarlyStopping_Asso_Discrep(patience=self.args.patience, verbose=True, slow_learner=True)
         model_optim = self._select_optimizer()    
 
-        f = open("training_anomaly_detection_asso_discrep_slow" + dt_string + ".txt", 'a')
-        f_csv = open("training_anomaly_detection_asso_discrep_slow" + dt_string + ".csv","a")
+        result_dir = self.args.result_dir
+        csv_fname = result_dir + "/training_anomaly_detection_asso_discrep_slow" + dt_string + ".txt"
+        txt_fname = result_dir + "/training_anomaly_detection_asso_discrep_slow" + dt_string + ".csv"
+        f = open(csv_fname, 'a')
+        f_csv = open(txt_fname,"a")
 
         csvreader = csv.writer(f_csv)
         for epoch in tqdm(list(range(self.args.train_epochs))):

@@ -94,8 +94,11 @@ class Exp_Anomaly_Detection_Normal(Exp_Basic):
         model_optim = self._select_optimizer()    
         criterion = self._select_criterion()
 
-        f = open("training_anomaly_detection_asso_discrep_normal"+ dt_string +".txt", 'a')
-        f_csv = open("training_anomaly_detection_asso_discrep_normal"+ dt_string +".csv","a")
+        result_dir = self.args.result_dir
+        csv_fname = result_dir + "/training_anomaly_detection_asso_discrep_normal"+ dt_string +".csv"
+        txt_fname = result_dir + "/training_anomaly_detection_asso_discrep_normal"+ dt_string +".txt"
+        f = open(txt_fname, 'a')
+        f_csv = open(csv_fname,"a")
 
         csvreader = csv.writer(f_csv)
         for epoch in tqdm(list(range(self.args.train_epochs))):
