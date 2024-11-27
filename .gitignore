@@ -11,6 +11,7 @@ waktu.txt
 dataset/
 checkpoints/
 results/
+logs/
 test_results/
 .Python
 build/
