@@ -1,8 +1,8 @@
 # How to Run Code
 
-## Python Version 3.8.10
+This model use Python Version 3.8.10.
 
-Use venv in Python
+For better result use venv in Python
 
 ```bash
 python -m venv name-venv/
@@ -15,7 +15,7 @@ source ./name-venv/Scripts/activate
 pip install -r requirements.txt
 ```
 
-## TRAIN MODEL REINFORCEMENT LEARNING MAELNET
+## Train MODEL REINFORCEMENT LEARNING in MAELNET
 
 Change your working directory to main directory, then run this command.
 
@@ -23,7 +23,7 @@ Change your working directory to main directory, then run this command.
 bash ./scripts/NEW_RL/[dataset]_scripts/train_[model].sh
 ```
 
-## TEST MODEL REINFORCEMENT LEARNING MAELNET
+## Test MODEL REINFORCEMENT LEARNING in MAELNET
 
 Change your working directory to main directory, then run this command.
 
