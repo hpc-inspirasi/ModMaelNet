@@ -1,3 +1,5 @@
+echo "===========================> run on: `date`" >> $FL_RES
+echo "Testing Model" >> $FL_RES
 export CUDA_VISIBLE_DEVICES=0
 
 python -u run_anomaly.py \
@@ -27,3 +29,6 @@ python -u run_anomaly.py \
   --itr 1 \
   --checkpoints ./checkpoints/ \
   --result_dir ./results/ 
+
+echo "Testing Finished at `date`" >> $FL_RES
+echo "----------------------------" >> $FL_RES

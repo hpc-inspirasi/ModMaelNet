@@ -1,3 +1,5 @@
+echo "===========================> run on: `date`" >> $FL_RES
+echo "Testing Model" >> $FL_RES
 export CUDA_VISIBLE_DEVICES=0
 
 python -u run_anomaly.py \
@@ -26,3 +28,6 @@ python -u run_anomaly.py \
   --p_hidden_layers 2 \
   --result_dir ./results/ \
   --itr 1
+
+echo "Testing Finished at `date`" >> $FL_RES
+echo "----------------------------" >> $FL_RES
