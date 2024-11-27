@@ -21,4 +21,5 @@ python -u run_anomaly.py \
   --des 'Exp_h256_l2' \
   --p_hidden_dims 128 128 \
   --p_hidden_layers 2 \
-  --itr 1 &
+  --result_dir ./results/ \
+  --itr 1
