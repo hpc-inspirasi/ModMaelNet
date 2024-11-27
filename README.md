@@ -2,6 +2,13 @@
 
 ## Python Version 3.8.10
 
+Use venv in Python
+
+```bash
+python -m venv name-venv/
+source ./name-venv/Scripts/activate
+```
+
 ## Install Requirements
 
 ```bash 
