@@ -1,5 +1,4 @@
-
-export DATASET_SC="MSL"
+export DATASET_SC="SMAP"
 export DIR_RES='./results/'
 export FL_RES="${DIR_RES}run_${DATASET_SC}.txt"
 echo "========================================" >> $FL_RES
