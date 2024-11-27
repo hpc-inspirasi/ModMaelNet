@@ -24,4 +24,4 @@ python -u run_anomaly.py \
   --p_hidden_dims 128 128 \
   --p_hidden_layers 2 \
   --result_dir ./results/ \
-  --itr 1
+  --itr 1 
