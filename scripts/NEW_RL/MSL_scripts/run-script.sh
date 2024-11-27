@@ -1,7 +1,8 @@
 export DATASET_SC="MSL"
 export DIR_RES='./results/'
 export FL_RES="${DIR_RES}run_${DATASET_SC}.txt"
-echo $FL_RES
+echo "Set result file in ${FL_RES}"
+echo " " >> $FL_RES
 
 echo "Script MaelNET on Database $DATASET_SC" >> $FL_RES
 echo "Train Anomaly" >> $FL_RES

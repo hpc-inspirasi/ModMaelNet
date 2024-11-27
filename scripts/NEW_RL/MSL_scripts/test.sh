@@ -25,4 +25,5 @@ python -u run_anomaly.py \
   --p_hidden_dims 128 128 \
   --p_hidden_layers 2 \
   --itr 1 \
-  --checkpoints ./checkpoints/ &
+  --checkpoints ./checkpoints/ \
+  --result_dir ./results/ 
