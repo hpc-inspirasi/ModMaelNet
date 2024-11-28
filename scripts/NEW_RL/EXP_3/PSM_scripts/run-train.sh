@@ -1,6 +1,6 @@
-export DATASET_SC="SWaT"
+export DATASET_SC="PSM"
 export DIR_RES='./results/'
-export EXP_NO='EXP_2'
+export EXP_NO='EXP_3'
 export FL_RES="${DIR_RES}run_${DATASET_SC}.txt"
 echo " " >> $FL_RES
 echo "Training only ===========================> run on: `date`" >> $FL_RES
