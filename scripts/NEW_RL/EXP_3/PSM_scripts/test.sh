@@ -1,3 +1,7 @@
+
+export DATASET_SC="PSM"
+export DIR_RES='./results/'
+export FL_RES="${DIR_RES}run_${DATASET_SC}.txt"
 echo "===========================> run on: `date`" >> $FL_RES
 echo "Testing Model" >> $FL_RES
 export CUDA_VISIBLE_DEVICES=0
