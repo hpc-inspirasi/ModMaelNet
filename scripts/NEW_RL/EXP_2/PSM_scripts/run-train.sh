@@ -1,4 +1,4 @@
-export DATASET_SC="SWaT"
+export DATASET_SC="PSM"
 export DIR_RES='./results/'
 export EXP_NO='EXP_2'
 export FL_RES="${DIR_RES}run_${DATASET_SC}.txt"
