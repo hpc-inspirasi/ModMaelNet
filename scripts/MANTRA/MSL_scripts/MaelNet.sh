@@ -1,4 +1,6 @@
-  py -u run_mantra.py \
+export CUDA_VISIBLE_DEVICES=0
+
+python -u run_mantra.py \
   --is_training 1 \
   --root_path ./dataset/MSL/ \
   --model_id MaelNetB1_MaelNetS1_MSL_MSE_NO_SL2 \

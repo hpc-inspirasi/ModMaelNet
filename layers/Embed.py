@@ -50,7 +50,7 @@ class TokenTCNEmbedding(nn.Module):
         # TCN
         self.dropout = nn.Dropout(dropout)
         layers = []
-        self.num_levels = math.ceil(math.log2((n_windows - 1) * (2 - 1) /kernel_size))
+        self.num_levels = math.ceil(math.log2((n_windows - 1) * (2 - 1) / kernel_size))
         self.leakyrelu = nn.LeakyReLU(True)
         for i in range(self.num_levels-1):
             dilation_size = 2 ** i

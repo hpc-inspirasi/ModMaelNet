@@ -1,4 +1,6 @@
-py -u run_mantra.py \
+export CUDA_VISIBLE_DEVICES=0
+
+python -u run_mantra.py \
   --is_training 1 \
   --root_path ./dataset/MSL/ \
   --model_id NSTransformerB1_NSTransformerS1_MSL \
@@ -18,7 +20,7 @@ py -u run_mantra.py \
   --p_hidden_layers 2 \
   --itr 1 &
 
-py -u run_mantra.py \
+python -u run_mantra.py \
   --is_training 0 \
   --root_path ./dataset/MSL/ \
   --model_id NSTransformerB1_NSTransformerS1_MSL \

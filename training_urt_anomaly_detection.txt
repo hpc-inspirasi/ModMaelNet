@@ -1,0 +1,15 @@
+MaelNetB1_MaelNetS1_MSL_MSE_NO_SL2_MaelNetB1_MSL_ftM_dm512_nh8_el2_dl1_df2048_fc5_ebtimeF_dtTrue_test_0  
+Epoch: 1 cost time: 93.94912672042847
+Epoch: 1, Steps: 1820 | Train Loss: 0.0011544 Vali Loss: 0.0324052 Test Loss: 0.2249662
+Epoch: 2 cost time: 92.19335222244263
+Epoch: 2, Steps: 1820 | Train Loss: 0.0011538 Vali Loss: 0.0323894 Test Loss: 0.2249662
+Epoch: 3 cost time: 92.55494046211243
+Epoch: 3, Steps: 1820 | Train Loss: 0.0011538 Vali Loss: 0.0323899 Test Loss: 0.2249662
+Epoch: 4 cost time: 92.02530980110168
+Epoch: 4, Steps: 1820 | Train Loss: 0.0011541 Vali Loss: 0.0323640 Test Loss: 0.2249662
+Epoch: 5 cost time: 91.42322492599487
+Epoch: 5, Steps: 1820 | Train Loss: 0.0011541 Vali Loss: 0.0323679 Test Loss: 0.2249662
+Epoch: 6 cost time: 92.07221531867981
+Epoch: 6, Steps: 1820 | Train Loss: 0.0011539 Vali Loss: 0.0324225 Test Loss: 0.2249662
+Epoch: 7 cost time: 92.00211358070374
+Epoch: 7, Steps: 1820 | Train Loss: 0.0011540 Vali Loss: 0.0324062 Test Loss: 0.2249662
