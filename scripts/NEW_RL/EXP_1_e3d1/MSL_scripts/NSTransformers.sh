@@ -7,19 +7,25 @@ python -u run_mantra.py \
   --model NSTransformerB1 \
   --slow_model NSTransformerS1 \
   --data MSL \
-  --e_layers 2 \
+  --e_layers 3 \
   --d_layers 1 \
-  --anomaly_ratio 1 \
+  --train_epochs 3 \
+  --anomaly_ratio 0.85 \
   --factor 5 \
   --enc_in 55 \
   --dec_in 55 \
   --c_out 55 \
   --d_model 512 \
+  --moving_avg 100 \
+  --d_ff 512 \
+  --dropout 0.0 \
+  --win_size 100 \
+  --des 'TA' \
   --gpu 0 \
   --p_hidden_dims 128 128 \
   --p_hidden_layers 2 \
-  --itr 1 \
-  --result_dir ./results/ 
+  --result_dir ./results/ \
+  --itr 1
 
 python -u run_mantra.py \
   --is_training 0 \
@@ -28,16 +34,22 @@ python -u run_mantra.py \
   --model NSTransformerB1 \
   --slow_model NSTransformerS1 \
   --data MSL \
-  --e_layers 2 \
+  --e_layers 3 \
   --d_layers 1 \
-  --anomaly_ratio 1 \
+  --anomaly_ratio 0.85 \
   --factor 5 \
   --enc_in 55 \
   --dec_in 55 \
   --c_out 55 \
   --d_model 512 \
   --gpu 0 \
+  --train_epochs 3 \
+  --d_ff 512 \
+  --dropout 0.0 \
+  --win_size 100 \
+  --des 'TA' \
+  --moving_avg 100 \
   --p_hidden_dims 128 128 \
   --p_hidden_layers 2 \
-  --itr 1 \
-  --result_dir ./results/ 
+  --result_dir ./results/ \
+  --itr 1
