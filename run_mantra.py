@@ -25,6 +25,9 @@ parser.add_argument('--checkpoints', type=str, default='./checkpoints/', help='l
 parser.add_argument('--freq', type=str, default='h',
                         help='freq for time features encoding, options:[s:secondly, t:minutely, h:hourly, d:daily, b:business days, w:weekly, m:monthly], you can also use more detailed freq like 15min or 3h')
 
+### Add folder result
+parser.add_argument('--result_dir', type=str, default='results', help='directory for the result files')
+
 # anomaly task
 parser.add_argument('--anomaly_ratio', type=float, default=0.6, help="Anomaly ratio for threshold")
 
