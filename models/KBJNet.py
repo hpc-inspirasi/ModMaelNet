@@ -42,6 +42,7 @@ class Model(nn.Module):
         g_atts = self.tcn(enc) #tidak mengubah dimensi # 128x25x5 32x25x100 32 38 100
         enc2 = g_atts.permute(2, 0, 1) * math.sqrt(self.n_feats) # 5x128x25 100x32x25
         enc2 = self.pos_encoder(enc2)
+        # Pytorch2 berubah di sini
         z1 = self.transformer_encoder1(enc2)
         # Embedding End
         c1 = z1 + self.fcn1(z1)
