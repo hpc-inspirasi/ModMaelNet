@@ -29,6 +29,6 @@ echo "---"
 
 echo "Testing Model" >> $FL_RES
 echo "Started at `date`" >> $FL_RES
-bash ./scripts/NEW_RL/${DATASET_SC}_scripts/test.sh
+bash ./scripts/NEW_RL/${FL_EXP}/${DATASET_SC}_scripts/test.sh >> $RUN_RES
 echo "Finished at `date`" >> $FL_RES
 echo "----------------------------" >> $FL_RES
