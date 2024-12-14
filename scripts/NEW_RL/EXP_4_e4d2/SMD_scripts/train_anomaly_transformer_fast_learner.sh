@@ -7,8 +7,8 @@ python -u run_anomaly.py \
   --model AnomalyTransformer \
   --train_epochs 3 \
   --data SMD \
-  --e_layers 3 \
-  --d_layers 1 \
+  --e_layers 4 \
+  --d_layers 2 \
   --anomaly_ratio 0.6 \
   --factor 5 \
   --d_ff 512 \

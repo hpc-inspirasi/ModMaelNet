@@ -7,8 +7,8 @@ python -u run_anomaly.py \
   --model MaelNetS2 \
   --is_slow_learner true \
   --data SWaT \
-  --e_layers 4 \
-  --d_layers 1 \
+  --e_layers 3 \
+  --d_layers 3 \
   --anomaly_ratio 0.85 \
   --d_ff 512 \
   --dropout 0.0 \

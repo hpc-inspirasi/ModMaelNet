@@ -8,7 +8,7 @@ python -u run_anomaly.py \
   --is_slow_learner true \
   --data SMAP \
   --e_layers 3 \
-  --d_layers 1 \
+  --d_layers 2 \
   --anomaly_ratio 0.85 \
   --d_ff 512 \
   --dropout 0.0 \

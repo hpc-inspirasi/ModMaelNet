@@ -8,7 +8,7 @@ python -u run_anomaly.py \
   --train_epochs 3 \
   --data SMAP \
   --e_layers 3 \
-  --d_layers 1 \
+  --d_layers 3 \
   --anomaly_ratio 0.85 \
   --factor 5 \
   --d_ff 512 \
