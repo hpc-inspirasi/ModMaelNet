@@ -34,8 +34,8 @@ class Projector(nn.Module):
         x = torch.cat([x, stats], dim=1) # B x 2 x E
         x = x.view(batch_size, -1) # B x 2E
         y = self.backbone(x)       # B x O
-
         return y
+        
 class Model(nn.Module):
     def __init__(self, configs):
         super(Model, self).__init__()
