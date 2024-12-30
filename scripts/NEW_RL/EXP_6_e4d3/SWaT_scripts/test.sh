@@ -14,7 +14,7 @@ python -u run_anomaly.py \
   --channel 51 \
   --patch_size 5 \
   --e_layers 4 \
-  --d_layers 1 \
+  --d_layers 3 \
   --anomaly_ratio 0.85 \
   --factor 5 \
   --enc_in 51 \

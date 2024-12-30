@@ -38,4 +38,4 @@ py -u run_mantra_rl2.py \
   --p_hidden_dims 128 128 \
   --p_hidden_layers 2 \
   --epoch_itr 4000 \
-  --itr 1 &
+  --itr 1

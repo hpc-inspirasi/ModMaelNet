@@ -56,6 +56,7 @@ parser.add_argument('--exp_name', default='rlmc', type=str)
 parser.add_argument("--hidden_dim_rl",default=100, type=int)
 parser.add_argument("--train_epochs_rl",default=1, type=int)
 
+
 #TimesNet
 parser.add_argument('--top_k', type=int, default=5)
 
@@ -94,6 +95,7 @@ parser.add_argument('--do_predict', action='store_true', help='whether to predic
 # optimization
 parser.add_argument('--num_workers', type=int, default=10, help='data loader num workers')
 parser.add_argument('--itr', type=int, default=1, help='experiments times')
+parser.add_argument("--epoch_itr", type=int, default=1500, help="iterations per epoch")
 
 parser.add_argument('--train_epochs', type=int, default=10, help='train epochs')
 parser.add_argument('--batch_size', type=int, default=32, help='batch size of train input data')

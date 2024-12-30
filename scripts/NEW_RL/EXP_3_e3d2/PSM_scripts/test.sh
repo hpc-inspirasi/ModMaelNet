@@ -1,4 +1,3 @@
-
 export DATASET_SC="PSM"
 export DIR_RES='./results/'
 export FL_RES="${DIR_RES}run_${DATASET_SC}.txt"
@@ -13,8 +12,8 @@ python -u run_anomaly.py \
   --patch_size 5 \
   --train_epochs 3 \
   --data PSM \
-  --e_layers 4 \
-  --d_layers 1 \
+  --e_layers 3 \
+  --d_layers 2 \
   --anomaly_ratio 0.85 \
   --factor 5 \
   --d_ff 512 \

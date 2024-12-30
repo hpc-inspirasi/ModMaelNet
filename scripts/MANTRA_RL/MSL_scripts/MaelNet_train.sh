@@ -1,3 +1,5 @@
+export CUDA_VISIBLE_DEVICES=0
+
 # py -u run_mantra_rl.py \
 #   --is_training 1 \
 #   --root_path ./dataset/MSL/ \
@@ -38,4 +40,4 @@
   --p_hidden_dims 128 128 \
   --p_hidden_layers 2 \
   --epoch_itr 1500 \
-  --itr 1 &
+  --itr 1

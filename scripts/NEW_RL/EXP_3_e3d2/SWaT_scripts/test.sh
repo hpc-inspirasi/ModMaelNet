@@ -13,8 +13,8 @@ python -u run_anomaly.py \
   --win_size 100 \
   --channel 51 \
   --patch_size 5 \
-  --e_layers 4 \
-  --d_layers 1 \
+  --e_layers 3 \
+  --d_layers 2 \
   --anomaly_ratio 0.85 \
   --factor 5 \
   --enc_in 51 \
