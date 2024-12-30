@@ -1,3 +1,4 @@
+
 export DATASET_SC="SWaT"
 export DIR_RES='./results/'
 export FL_EXP="EXP_5_e3d3"
@@ -29,6 +30,8 @@ echo "---"
 
 echo "Testing Model" >> $FL_RES
 echo "Started at `date`" >> $FL_RES
+echo "---------------------------- `date` " >> $RUN_RES
 bash ./scripts/NEW_RL/${FL_EXP}/${DATASET_SC}_scripts/test.sh >> $RUN_RES
 echo "Finished at `date`" >> $FL_RES
+echo "---------------------------- `date` " >> $RUN_RES
 echo "----------------------------" >> $FL_RES

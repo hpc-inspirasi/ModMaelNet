@@ -1,3 +1,7 @@
+export DATASET_SC="SMD"
+export DIR_RES='./results/'
+export FL_EXP="EXP_6_e4d3"
+export FL_RES="${DIR_RES}run_${DATASET_SC}.txt"
 echo "===========================> run on: `date`" >> $FL_RES
 echo "Testing Model" >> $FL_RES
 export CUDA_VISIBLE_DEVICES=0
@@ -10,8 +14,8 @@ python -u run_anomaly.py \
   --win_size 100 \
   --channel 38 \
   --patch_size 5 \
-  --e_layers 3 \
-  --d_layers 1 \
+  --e_layers 4 \
+  --d_layers 3 \
   --anomaly_ratio 0.6 \
   --factor 5 \
   --enc_in 38 \
