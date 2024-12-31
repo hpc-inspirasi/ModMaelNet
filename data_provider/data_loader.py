@@ -221,6 +221,5 @@ class SWATSegLoader(Dataset):
             return np.float32(self.test[index:index + self.win_size]), np.float32(
                 self.test_labels[index:index + self.win_size])
         else:
-            return np.float32(self.test[
-                              index // self.step * self.win_size:index // self.step * self.win_size + self.win_size]), np.float32(
+            return np.float32(self.test[index // self.step * self.win_size:index // self.step * self.win_size + self.win_size]), np.float32(
                 self.test_labels[index // self.step * self.win_size:index // self.step * self.win_size + self.win_size])
