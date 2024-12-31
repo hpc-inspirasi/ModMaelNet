@@ -58,10 +58,10 @@ class MSLSegLoader(Dataset):
         self.step = step
         self.win_size = win_size
         self.scaler = StandardScaler()
-        data = np.load(os.path.join(root_path, "MSL_train.npy"))
+        data = np.load(os.path.join(root_path, "MSL_train.npy"), allow_pickle=True)
         self.scaler.fit(data)
         data = self.scaler.transform(data)
-        test_data = np.load(os.path.join(root_path, "MSL_test.npy"))
+        test_data = np.load(os.path.join(root_path, "MSL_test.npy"), allow_pickle=True)
         self.test = self.scaler.transform(test_data)
         self.train = data
         data_len = len(self.train)
