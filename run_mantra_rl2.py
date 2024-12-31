@@ -56,6 +56,8 @@ parser.add_argument('--exp_name', default='rlmc', type=str)
 parser.add_argument("--hidden_dim_rl",default=100, type=int)
 parser.add_argument("--train_epochs_rl",default=1, type=int)
 
+### Add folder result
+parser.add_argument('--result_dir', type=str, default='results', help='directory for the result files')
 
 #TimesNet
 parser.add_argument('--top_k', type=int, default=5)

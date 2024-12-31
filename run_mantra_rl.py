@@ -118,6 +118,9 @@ parser.add_argument('--seed', type=int, default=2021, help='random seed')
 parser.add_argument('--p_hidden_dims', type=int, nargs='+', default=[128, 128], help='hidden layer dimensions of projector (List)')
 parser.add_argument('--p_hidden_layers', type=int, default=2, help='number of hidden layers in projector')
 
+### Add folder result
+parser.add_argument('--result_dir', type=str, default='results', help='directory for the result files')
+
 args = parser.parse_args()
 
 args.use_gpu = True if torch.cuda.is_available() and args.use_gpu else False

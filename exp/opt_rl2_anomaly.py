@@ -235,7 +235,7 @@ class OPT_RL_Anomaly():
                 list_pred_models.append(test_energy)
                 list_thresholds.append(threshold)
                 
-        result_dir = self.args.result_dir                
+        result_dir = self.args.result_dir
         csv_fname = result_dir + "/training_anomaly_detection_asso_discrep_rl-" + dt_string + ".csv"
         print("CSV Filename: ", csv_fname ,"\n")
         

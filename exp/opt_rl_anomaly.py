@@ -435,15 +435,17 @@ class OPT_RL_Mantra:
             recall, f_score))
         # CSV
         
-        csv_fname = "training_mantra_anomaly_detection_rl-" + dt_string + ".csv"
+        result_dir = self.args.result_dir
+
+        csv_fname = result_dir + "\training_mantra_anomaly_detection_rl-" + dt_string + ".csv"
         f_csv = open(csv_fname,"a")
         # f_csv = open(".csv","a")
         csvreader = csv.writer(f_csv)
         datas = [[setting],["Accuracy","Precision","Recall","F-score"],[round(accuracy,4),round(precision,4),round(recall,4),round(f_score,4)]]
         csvreader.writerows(datas)
         
-        #Text
-        f = open("result_anomaly_detection_mantra_rl.txt", 'a')
+        #Text        
+        f = open(result_dir + "\result_anomaly_detection_mantra_rl.txt", 'a')
         f.write(setting + "  \n")
         f.write("Accuracy : {:0.4f}, Precision : {:0.4f}, Recall : {:0.4f}, F-score : {:0.4f} ".format(
             accuracy, precision,

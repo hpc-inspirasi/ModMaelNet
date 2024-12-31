@@ -21,8 +21,10 @@ import random
 import copy
 # import h5py
 
-warnings.filterwarnings('ignore')
+now = datetime.now()
+dt_string = now.strftime("%Y%m%d-%H%M%S")
 
+warnings.filterwarnings('ignore')
 
 class Opt_URT_Anomaly(Exp_Basic):
     def __init__(self, args):
@@ -134,7 +136,8 @@ class Opt_URT_Anomaly(Exp_Basic):
         urt_optim = self._select_urt_optimizer()
         criterion = self._select_criterion()
 
-        f = open("training_urt_anomaly_detection.txt", 'a')
+        result_dir = self.args.result_dir
+        f = open(result_dir + "\training_urt_anomaly_detection.txt", 'a')
         for epoch in range(self.args.train_epochs):
             iter_count = 0
             train_loss = []
@@ -438,7 +441,8 @@ class Opt_URT_Anomaly(Exp_Basic):
             recall, f_score))
 
         # result_anomaly_detection.txt
-        f = open("result_anomaly_detection_mantra.txt", 'a')
+        result_dir = self.args.result_dir
+        f = open(result_dir + "\result_anomaly_detection_mantra.txt", 'a')
         f.write(setting + "  \n")
         f.write("Accuracy : {:0.4f}, Precision : {:0.4f}, Recall : {:0.4f}, F-score : {:0.4f} ".format(
             accuracy, precision,
