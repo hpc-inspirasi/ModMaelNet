@@ -28,7 +28,7 @@ export CUDA_VISIBLE_DEVICES=0
   --model MaelNetB1 \
   --slow_model MaelNetS1 \
   --data MSL \
-  --e_layers 2 \
+  --e_layers 3 \
   --d_layers 1 \
   --anomaly_ratio 1 \
   --factor 5 \
