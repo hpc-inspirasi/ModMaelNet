@@ -27,7 +27,7 @@ class PositionalEmbedding(nn.Module):
         div_term = torch.exp(torch.arange(0, d_model, 2).float() * (-torch.log(torch.tensor(10000.0)) / d_model))
         
         pe[:, 0::2] = torch.sin(position * div_term)
-        pe[:, 0::2] = torch.cos(position * div_term)
+        pe[:, 1::2] = torch.cos(position * div_term)
                 
         #pe[:, 0::2] = torch.sin(position * div_term)
         #pe[:, 1::2] = torch.cos(position * div_term[:, :pe[:, 1::2].shape[1]])  # Ensure shapes match
