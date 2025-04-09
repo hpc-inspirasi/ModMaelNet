@@ -9,6 +9,9 @@ python -m venv name-venv/
 source ./name-venv/Scripts/activate
 ```
 
+## Download Dataset
+URL: http://s.id/nerd07
+
 ## Install Requirements
 
 ```bash 
