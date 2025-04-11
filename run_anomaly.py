@@ -18,9 +18,10 @@ parser.add_argument('--model', type=str, default='AnomalyTransformer',
 parser.add_argument('--result_dir', type=str, default='results', help='directory for the result files')
 
 # # # data loader
-parser.add_argument('--data', type=str, default='SMAP', help='dataset type')
-parser.add_argument('--root_path', type=str, default='./dataset/SMAP/', help='root path of the data file')
+parser.add_argument('--data', type=str, default='MSL', help='dataset type')
+parser.add_argument('--root_path', type=str, default='./dataset/MSL/', help='root path of the data file')
 parser.add_argument('--win_size', type=int, default=100, help='window size')
+parser.add_argument('--chunk_size', type=str, default='500', help='Chunk size. Example: 500')
 
 parser.add_argument('--features', type=str, default='M',
                     help='forecasting task, options:[M, S, MS]; M:multivariate predict multivariate, S:univariate predict univariate, MS:multivariate predict univariate')
