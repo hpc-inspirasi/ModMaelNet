@@ -18,7 +18,9 @@ def data_provider(args, flag):
         root_path=args.root_path,
         win_size=args.win_size,
         flag=flag,
+        chunk_size=args.chunk_size,
     )
+    print(f"Data: {data_set}")
     print(flag, len(data_set))
     print(f"Percentage of anomaly {(data_set.test_labels.sum()/len(data_set.test_labels) * 100).astype(float):0.2f}%")
     data_loader = DataLoader(
