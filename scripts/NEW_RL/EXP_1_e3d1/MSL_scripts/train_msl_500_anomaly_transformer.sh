@@ -7,6 +7,7 @@ python -u run_anomaly.py \
   --model AnomalyTransformer \
   --train_epochs 3 \
   --data MSL \
+  --chunk_size 500 \
   --e_layers 3 \
   --d_layers 1 \
   --anomaly_ratio 0.85 \
